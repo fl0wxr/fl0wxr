@@ -7,9 +7,9 @@
 
 ## 👨‍💻 About Me
 
-I'm an AI researcher and software developer with a background in machine learning, computational genomics, and mathematical modeling. I am completing my **M.Sc. in Artificial Intelligence** at Aristotle University of Thessaloniki (expected completion: 2026), where I research scalable community detection algorithms for protein sequence networks.
+I'm an AI researcher and software developer with a background in machine learning, computational genomics, and mathematical modeling. I recently completed my **M.Sc. in Artificial Intelligence** at Aristotle University of Thessaloniki (2026), where I researched scalable community detection algorithms for protein sequence networks.
 
-I thrive at the intersection of **mathematical rigor** and **applied machine learning** -- from deriving backpropagation from first principles to building production‑ready pipelines.
+I thrive at the intersection of **mathematical rigor** and **applied machine learning** — from deriving backpropagation from first principles to building production‑ready pipelines.
 
 ---
 
@@ -50,8 +50,8 @@ I thrive at the intersection of **mathematical rigor** and **applied machine lea
 |---------|-------------|
 | [`SmokeSegmenter`](https://github.com/fl0wxr/SmokeSegmenter) | Automated smoke segmentation using SAM |
 | [`bioscflow`](https://github.com/fl0wxr/bioscflow) | Python pipeline for large‑scale protein sequence clustering using MCL and HipMCL |
-| [`msc-thesis`](https://github.com/fl0wxr/msc-thesis) | LaTeX source for my MSc thesis on scalable protein clustering (in progress) |
-| [`netfieldv1`](https://github.com/fl0wxr/netfieldv1) | [Derived](https://drive.google.com/file/d/1O0ROuO3EQ0fxcG2K_GNI6ywh-bs1CGxp/view?usp=drive_link), vectorized and implemented the backpropagation algorithm from scratch (NumPy/CuPy) for any LeNet-like CNN architecture |
+| [`msc-thesis`](https://github.com/fl0wxr/msc-thesis) | LaTeX source for my MSc thesis on scalable protein clustering |
+| [`netfieldv1`](https://github.com/fl0wxr/netfieldv1) | Derived, vectorized, and implemented backpropagation from scratch for any LeNet-like CNN architecture (NumPy/CuPy) |
 | [`img-sim`](https://github.com/fl0wxr/img-sim) | SimCLR implementation for contrastive learning |
 | [`machine_translator`](https://github.com/fl0wxr/machine_translator) | Greek–English machine translation with RNNs (PyTorch) |
 
@@ -59,23 +59,23 @@ I thrive at the intersection of **mathematical rigor** and **applied machine lea
 
 ## 🎓 Education
 
-- **M.Sc. in Artificial Intelligence** — Aristotle University of Thessaloniki *(completing 2026)*
+- **M.Sc. in Artificial Intelligence** — Aristotle University of Thessaloniki *(completed 2026)*
 - **M.Eng. in Financial & Management Engineering** — University of the Aegean (2014–2019)
 
 ---
 
 ## 📄 Publications & Presentations
 
-- **StratoCluster: Scalability Analysis of MCL and HipMCL** -- *HBioinfo17 (RECOMB 2026)*
-- **Co‑author** -- SETN '18: 10th Hellenic Conference on AI
+- **StratoCluster: Scalability Analysis of MCL and HipMCL** — *HBioinfo17 (RECOMB 2026)*
+- **Co‑author** — SETN '18: 10th Hellenic Conference on AI
 
 ---
 
 ## 🌱 Currently
 
-- Finalizing my MSc thesis on large‑scale protein clustering
 - Applying for research and engineering roles in AI/ML
 - Exploring interpretability in AI (philosophical and technical)
+- Open to collaborations in computational biology and deep learning
 
 ---
 
