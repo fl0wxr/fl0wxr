@@ -16,7 +16,7 @@ My goal is to work at the intersection of **bioinformatics**, **engineering**, a
 ## 🎬 Demos
 
 <p align="center">
-  <a href="https://youtu.be/LSx3SHB2Lt4">
+  <a href="https://youtu.be/LSx3SHB2Lt4?si=mMFd4puYkq57WwtM&t=130">
     <img src="https://img.youtube.com/vi/LSx3SHB2Lt4/maxresdefault.jpg" width="400" alt="MedDiSC Demo"/>
   </a>
   <a href="https://youtu.be/g4cxpcj2UFA">
