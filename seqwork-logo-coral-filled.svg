@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 460" width="400" height="460">
+
+  <g fill="#ff4242" stroke="none">
+    <polygon points="140,125 140,195 200,160"/>
+    <polygon points="260,125 260,195 200,160"/>
+    <polygon points="140,195 140,265 80,230"/>
+    <polygon points="260,195 260,265 320,230"/>
+    <polygon points="140,265 140,335 200,300"/>
+    <polygon points="260,265 260,335 200,300"/>
+  </g>
+
+  <g fill="none" stroke="#ff4242" stroke-width="20" stroke-linejoin="round" stroke-linecap="round">
+    <polygon points="200,20 260,55 200,90 140,55"/>
+    <polygon points="140,55 200,90 200,160 140,125"/>
+    <polygon points="260,55 200,90 200,160 260,125"/>
+
+    <polygon points="80,90 140,125 80,160 20,125"/>
+    <polygon points="20,125 80,160 80,230 20,195"/>
+    <polygon points="140,125 80,160 80,230 140,195"/>
+
+    <polygon points="320,90 380,125 320,160 260,125"/>
+    <polygon points="260,125 320,160 320,230 260,195"/>
+    <polygon points="380,125 320,160 320,230 380,195"/>
+
+    <polygon points="200,160 260,195 200,230 140,195"/>
+    <polygon points="140,195 200,230 200,300 140,265"/>
+    <polygon points="260,195 200,230 200,300 260,265"/>
+
+    <polygon points="80,230 140,265 80,300 20,265"/>
+    <polygon points="20,265 80,300 80,370 20,335"/>
+    <polygon points="140,265 80,300 80,370 140,335"/>
+
+    <polygon points="320,230 380,265 320,300 260,265"/>
+    <polygon points="260,265 320,300 320,370 260,335"/>
+    <polygon points="380,265 320,300 320,370 380,335"/>
+
+    <polygon points="200,300 260,335 200,370 140,335"/>
+    <polygon points="140,335 200,370 200,440 140,405"/>
+    <polygon points="260,335 200,370 200,440 260,405"/>
+  </g>
+</svg>
