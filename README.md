@@ -7,9 +7,11 @@
 
 ## 👨‍💻 About Me
 
-I'm a ML/AI engineer and researcher with a background in deep learning, computational genomics, software engineering, and mathematics. I recently completed my **M.Sc. in Artificial Intelligence** at Aristotle University of Thessaloniki (2026), where I researched scalable community detection algorithms for protein sequence networks.
+I am a ML/AI engineer and researcher with a background in deep learning, computational genomics, software engineering, and rigorous mathematics.
 
-I build things that work — in bioinformatics, in engineering, in research, and in the wild. I care about systems that are robust, interpretable, and scalable, and I'm just as comfortable deriving math as I am shipping code. From backpropagation by hand to pipelines that process 80 million sequences, I bridge theory and practice. I'm open to freelancing, consulting, and full‑time roles — I deliver value, not just code (and I refuse to vibe code).
+I build things that work — in bioinformatics, in engineering, in research, and in the wild. I care about systems that are robust, interpretable, and scalable, and I'm just as comfortable deriving math as I am shipping code. From backpropagation by hand to pipelines that process 80 million protein sequences, I bridge theory and practice.
+
+Open to freelancing, consulting, and full‑time roles. I deliver value, not just code. I embrace completeness, and I refuse to vibe code.
 
 ---
 
