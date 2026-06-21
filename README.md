@@ -10,8 +10,14 @@
 
 <h1 align="center">👋 Hi, I'm Apostolos M. Dimoulakis</h1>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/fl0wxr)
-[![Linktree](https://img.shields.io/badge/-Linktree-43E55E?style=flat&logo=linktree&logoColor=white)](https://linktr.ee/fl0wxr)
+<p align="center">
+  <a href="https://linkedin.com/in/fl0wxr">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://linktr.ee/fl0wxr">
+    <img src="https://img.shields.io/badge/-Linktree-43E55E?style=flat&logo=linktree&logoColor=white" alt="Linktree"/>
+  </a>
+</p>
 
 ---
 
