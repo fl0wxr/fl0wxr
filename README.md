@@ -19,8 +19,6 @@
   </a>
 </p>
 
----
-
 ## 👨‍💻 About Me
 
 I am a ML/AI engineer and researcher with a background in deep learning, computational genomics, software engineering, and rigorous mathematics.
