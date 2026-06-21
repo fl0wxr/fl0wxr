@@ -17,6 +17,9 @@
   <a href="https://linktr.ee/fl0wxr">
     <img src="https://img.shields.io/badge/-Linktree-43E55E?style=flat&logo=linktree&logoColor=white" alt="Linktree"/>
   </a>
+  <a href="https://www.facebook.com/people/Apostolos-Dimoulakis">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
 </p>
 
 ## 👨‍💻 About Me
