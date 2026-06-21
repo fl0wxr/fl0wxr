@@ -1,5 +1,13 @@
 <p align="center">
-  <img src="seqwork-logo-coral-filled.svg" width="200" alt="SEQWORK"/>
+  <table>
+    <tr>
+      <td><img src="asset/seqwork-logo-coral-filled.svg" width="80" alt="SEQWORK"/></td>
+      <td>
+        <strong style="font-size:28px; color:#ff4242;">SEQWORK</strong><br>
+        <span style="font-size:14px; color:#555;">Sequence and Image Processing Products and Services</span>
+      </td>
+    </tr>
+  </table>
 </p>
 
 # 👋 Hi, I'm Apostolos M. Dimoulakis
