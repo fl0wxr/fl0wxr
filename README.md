@@ -39,12 +39,12 @@ I thrive at the intersection of **mathematical rigor** and **applied machine lea
 
 | Project | Description |
 |---------|-------------|
+| [`SmokeSegmenter`](https://github.com/fl0wxr/SmokeSegmenter) | Automated smoke segmentation using SAM |
 | [`bioscflow`](https://github.com/fl0wxr/bioscflow) | Python pipeline for large‑scale protein sequence clustering using MCL and HipMCL |
 | [`msc-thesis`](https://github.com/fl0wxr/msc-thesis) | LaTeX source for my MSc thesis on scalable protein clustering (in progress) |
 | [`netfieldv1`](https://github.com/fl0wxr/netfieldv1) | Vectorized CNN backpropagation from scratch (NumPy/CuPy) |
 | [`img-sim`](https://github.com/fl0wxr/img-sim) | SimCLR implementation for contrastive learning |
 | [`machine_translator`](https://github.com/fl0wxr/machine_translator) | Greek–English machine translation with RNNs (PyTorch) |
-| [`SmokeSegmenter`](https://github.com/fl0wxr/SmokeSegmenter) | Automated smoke segmentation using SAM |
 
 ---
 
