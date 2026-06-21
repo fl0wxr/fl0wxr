@@ -13,6 +13,19 @@ My goal is to work at the intersection of **bioinformatics**, **engineering**, a
 
 ---
 
+## 🎬 Demos
+
+<p align="center">
+  <a href="https://youtu.be/LSx3SHB2Lt4">
+    <img src="https://img.youtube.com/vi/LSx3SHB2Lt4/maxresdefault.jpg" width="400" alt="MedDiSC Demo"/>
+  </a>
+  <a href="https://youtu.be/g4cxpcj2UFA">
+    <img src="https://img.youtube.com/vi/g4cxpcj2UFA/maxresdefault.jpg" width="400" alt="YOLOv3 Demo"/>
+  </a>
+</p>
+
+---
+
 ## 🔬 Research Interests
 
 - Machine Learning & Deep Learning
@@ -56,24 +69,6 @@ My goal is to work at the intersection of **bioinformatics**, **engineering**, a
 | [`netfieldv1`](https://github.com/fl0wxr/netfieldv1) | Derived, vectorized, and implemented backpropagation from scratch for any LeNet-like CNN architecture (NumPy/CuPy) |
 | [`img-sim`](https://github.com/fl0wxr/img-sim) | SimCLR implementation for contrastive learning |
 | [`machine_translator`](https://github.com/fl0wxr/machine_translator) | Greek–English machine translation with RNNs (PyTorch) |
-
----
-
-## 🎬 Demos
-
-<p align="center">
-  <a href="https://youtu.be/LSx3SHB2Lt4">
-    <img src="https://img.youtube.com/vi/LSx3SHB2Lt4/maxresdefault.jpg" width="400" alt="MedDiSC Demo"/>
-    <br>
-    <img src="https://img.shields.io/badge/▶️_Play_MedDiSC_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://youtu.be/g4cxpcj2UFA">
-    <img src="https://img.youtube.com/vi/g4cxpcj2UFA/maxresdefault.jpg" width="400" alt="YOLOv3 Demo"/>
-    <br>
-    <img src="https://img.shields.io/badge/▶️_Play_YOLOv3_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-</p>
 
 ---
 
