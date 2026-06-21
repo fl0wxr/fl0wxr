@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="asset/seqwork-logo-coral-filled.svg" width="200" alt="SEQWORK"/>
+  <img src="seqwork-logo-coral-filled.svg" width="200" alt="SEQWORK"/>
 </p>
 
 # 👋 Hi, I'm Apostolos M. Dimoulakis
