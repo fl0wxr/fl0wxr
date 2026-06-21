@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Apostolos Dimoulakis
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/fl0wxr)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/fl0wxr)
 [![Linktree](https://img.shields.io/badge/-Linktree-43E55E?style=flat&logo=linktree&logoColor=white)](https://linktr.ee/fl0wxr)
 
@@ -10,7 +9,7 @@
 
 I'm an AI researcher and software developer with a background in machine learning, computational genomics, and mathematical modeling. I am completing my **M.Sc. in Artificial Intelligence** at Aristotle University of Thessaloniki (expected completion: 2026), where I research scalable community detection algorithms for protein sequence networks.
 
-I thrive at the intersection of **mathematical rigor** and **applied machine learning** — from deriving backpropagation from first principles to building production‑ready pipelines.
+I thrive at the intersection of **mathematical rigor** and **applied machine learning** -- from deriving backpropagation from first principles to building production‑ready pipelines.
 
 ---
 
@@ -58,8 +57,8 @@ I thrive at the intersection of **mathematical rigor** and **applied machine lea
 
 ## 📄 Publications & Presentations
 
-- **StratoCluster: Scalability Analysis of MCL and HipMCL** — *HBioinfo17 (RECOMB 2026)*
-- **Co‑author** — SETN '18: 10th Hellenic Conference on AI
+- **StratoCluster: Scalability Analysis of MCL and HipMCL** -- *HBioinfo17 (RECOMB 2026)*
+- **Co‑author** -- SETN '18: 10th Hellenic Conference on AI
 
 ---
 
