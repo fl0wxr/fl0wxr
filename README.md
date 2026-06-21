@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="asset/seqwork.png" width="200" alt="SEQWORK"/>
+</p>
+
 # 👋 Hi, I'm Apostolos M. Dimoulakis
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/fl0wxr)
