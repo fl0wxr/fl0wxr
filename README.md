@@ -8,7 +8,7 @@
   <span style="font-size:14px; color:#888;">— built by —</span>
 </p>
 
-<h1 align="center">👋 Hi, I'm Apostolos M. Dimoulakis</h1>
+<h1 align="center">👋 Greetings, I am Apostolos M. Dimoulakis</h1>
 
 <p align="center">
   <a href="https://linkedin.com/in/fl0wxr">
