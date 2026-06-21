@@ -1,11 +1,14 @@
 <p align="center">
-  <img src="seqwork-logo-coral-filled.svg" width="60" alt="SEQWORK"/>
-  &nbsp;
-  <strong style="font-size:32px;">SEQWORK</strong><br>
-  <span style="font-size:16px; color:#555;">Image &amp; Sequence Processing Solutions</span>
+  <img src="seqwork-logo-coral-filled.svg" width="80" alt="SEQWORK"/><br>
+  <strong style="font-size:32px; color:#ff4242;">SEQWORK</strong><br>
+  <span style="font-size:16px; color:#666;">Image &amp; Sequence Processing Solutions</span>
 </p>
 
-# 👋 Hi, I'm Apostolos M. Dimoulakis
+<p align="center">
+  <span style="font-size:14px; color:#888;">— built by —</span>
+</p>
+
+<h1 align="center">👋 Hi, I'm Apostolos M. Dimoulakis</h1>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/fl0wxr)
 [![Linktree](https://img.shields.io/badge/-Linktree-43E55E?style=flat&logo=linktree&logoColor=white)](https://linktr.ee/fl0wxr)
