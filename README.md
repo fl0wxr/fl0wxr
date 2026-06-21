@@ -1,6 +1,6 @@
 <p align="center">
   <span>
-    <img src="asset/seqwork-logo-coral-filled.svg" width="80" alt="SEQWORK" style="vertical-align:middle;"/>
+    <img src="seqwork-logo-coral-filled.svg" width="80" alt="SEQWORK" style="vertical-align:middle;"/>
     <span style="display:inline-block; margin-left:12px; vertical-align:middle;">
       <strong style="font-size:32px; color:#ff4242; line-height:1.2;">SEQWORK</strong><br>
       <span style="font-size:14px; color:#555;">Sequence and Image Processing Products and Services</span>
