@@ -9,7 +9,7 @@
 
 I'm an AI researcher and software developer with a background in machine learning, computational genomics, and mathematical modeling. I recently completed my **M.Sc. in Artificial Intelligence** at Aristotle University of Thessaloniki (2026), where I researched scalable community detection algorithms for protein sequence networks.
 
-I thrive at the intersection of **mathematical rigor** and **applied machine learning** — from deriving backpropagation from first principles to building production‑ready pipelines.
+My goal is to work at the intersection of **bioinformatics**, **engineering**, and **research** — building robust, interpretable, and scalable systems that bridge computational methods with biological discovery. I thrive on combining mathematical rigor with applied problem‑solving, from deriving backpropagation from first principles to deploying production‑ready pipelines.
 
 ---
 
@@ -35,7 +35,7 @@ I thrive at the intersection of **mathematical rigor** and **applied machine lea
 
 ---
 
-## Publications & Reports
+## 📑 Publications & Reports
 
 - [Applications of Convolutional Neural Networks in Image and Natural Language Processing](https://hellanicus.lib.aegean.gr/items/aff2b3b4-2f7d-48c5-97d0-db3006a1fc74) — Undergraduate thesis
 - [A nature inspired metaheuristic for optimal leveling of resources in project management](https://www.researchgate.net/publication/326250138_A_Nature_Inspired_metaheuristic_for_Optimal_Leveling_of_Resources_in_Project_Management) — SETN '18
