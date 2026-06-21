@@ -19,7 +19,7 @@ I thrive at the intersection of **mathematical rigor** and **applied machine lea
 - Computational Genomics & Proteomics
 - Interpretability & Explainable AI
 - Optimization & Linear Algebra
-- Scalable Graph Clustering
+- Scalable Graph Clustering & High Performance Computing
 
 ---
 
