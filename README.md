@@ -1,4 +1,6 @@
 <p align="center">
+  <img src="seqwork-logo-coral-filled.svg" width="60" alt="SEQWORK"/>
+  &nbsp;
   <strong style="font-size:32px;">SEQWORK</strong><br>
   <span style="font-size:16px; color:#555;">Image &amp; Sequence Processing Solutions</span>
 </p>
