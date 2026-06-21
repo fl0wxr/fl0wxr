@@ -70,7 +70,7 @@ Open to freelancing, consulting, and full‑time roles. I deliver value, not jus
 - [A nature inspired metaheuristic for optimal leveling of resources in project management](https://www.researchgate.net/publication/326250138_A_Nature_Inspired_metaheuristic_for_Optimal_Leveling_of_Resources_in_Project_Management) — SETN '18
 - [Complementary Notes on Measure Theory and the Lebesgue Integral](https://drive.google.com/file/d/1SJsKJWXQa-w-zUuzjFBiInODYKBM7dEu/view)
 - [The Backpropagation Algorithm for Convolutional Neural Networks](https://drive.google.com/file/d/1O0ROuO3EQ0fxcG2K_GNI6ywh-bs1CGxp/view)
-- **StratoCluster: Scalability Analysis of MCL and HipMCL** — *HBioinfo17 (RECOMB 2026)*
+- **StratoCluster: Large-scale Clustering of the Natural Genome Sequence Space** — *HBioinfo17 (RECOMB 2026)*
 - **Co‑author** — SETN '18: 10th Hellenic Conference on AI
 
 ---
