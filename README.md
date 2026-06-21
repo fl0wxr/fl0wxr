@@ -7,25 +7,9 @@
 
 ## 👨‍💻 About Me
 
-I'm a ML/AI engineer and researcher with a background in deep learning, computational genomics, software engineering and mathematics. I recently completed my **M.Sc. in Artificial Intelligence** at Aristotle University of Thessaloniki (2026), where I researched scalable community detection algorithms for protein sequence networks.
+I'm a ML/AI engineer and researcher with a background in deep learning, computational genomics, software engineering, and mathematics. I recently completed my **M.Sc. in Artificial Intelligence** at Aristotle University of Thessaloniki (2026), where I researched scalable community detection algorithms for protein sequence networks.
 
 My goal is to work at the intersection of **bioinformatics**, **engineering**, and **research** — building robust, interpretable, and scalable systems that bridge computational methods with biological discovery. I thrive on combining mathematical rigor with applied problem‑solving, from deriving backpropagation from first principles to deploying production‑ready pipelines.
-
-## 🎬 Demos
-
-<p align="center">
-  <a href="https://youtu.be/LSx3SHB2Lt4">
-    <img src="https://img.youtube.com/vi/LSx3SHB2Lt4/maxresdefault.jpg" width="400" alt="MedDiSC Demo"/>
-    <br>
-    <img src="https://img.shields.io/badge/▶️_Play_MedDiSC_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://youtu.be/g4cxpcj2UFA">
-    <img src="https://img.youtube.com/vi/g4cxpcj2UFA/maxresdefault.jpg" width="400" alt="YOLOv3 Demo"/>
-    <br>
-    <img src="https://img.shields.io/badge/▶️_Play_YOLOv3_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-</p>
 
 ---
 
@@ -51,12 +35,14 @@ My goal is to work at the intersection of **bioinformatics**, **engineering**, a
 
 ---
 
-## 📑 Publications & Reports
+## 📑 Publications & Presentations
 
 - [Applications of Convolutional Neural Networks in Image and Natural Language Processing](https://hellanicus.lib.aegean.gr/items/aff2b3b4-2f7d-48c5-97d0-db3006a1fc74) — Undergraduate thesis
 - [A nature inspired metaheuristic for optimal leveling of resources in project management](https://www.researchgate.net/publication/326250138_A_Nature_Inspired_metaheuristic_for_Optimal_Leveling_of_Resources_in_Project_Management) — SETN '18
 - [Complementary Notes on Measure Theory and the Lebesgue Integral](https://drive.google.com/file/d/1SJsKJWXQa-w-zUuzjFBiInODYKBM7dEu/view)
 - [The Backpropagation Algorithm for Convolutional Neural Networks](https://drive.google.com/file/d/1O0ROuO3EQ0fxcG2K_GNI6ywh-bs1CGxp/view)
+- **StratoCluster: Scalability Analysis of MCL and HipMCL** — *HBioinfo17 (RECOMB 2026)*
+- **Co‑author** — SETN '18: 10th Hellenic Conference on AI
 
 ---
 
@@ -73,17 +59,28 @@ My goal is to work at the intersection of **bioinformatics**, **engineering**, a
 
 ---
 
+## 🎬 Demos
+
+<p align="center">
+  <a href="https://youtu.be/LSx3SHB2Lt4">
+    <img src="https://img.youtube.com/vi/LSx3SHB2Lt4/maxresdefault.jpg" width="400" alt="MedDiSC Demo"/>
+    <br>
+    <img src="https://img.shields.io/badge/▶️_Play_MedDiSC_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://youtu.be/g4cxpcj2UFA">
+    <img src="https://img.youtube.com/vi/g4cxpcj2UFA/maxresdefault.jpg" width="400" alt="YOLOv3 Demo"/>
+    <br>
+    <img src="https://img.shields.io/badge/▶️_Play_YOLOv3_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+</p>
+
+---
+
 ## 🎓 Education
 
 - **M.Sc. in Artificial Intelligence** — Aristotle University of Thessaloniki *(completed 2026)*
 - **M.Eng. in Financial & Management Engineering** — University of the Aegean (2014–2019)
-
----
-
-## 📄 Publications & Presentations
-
-- **StratoCluster: Scalability Analysis of MCL and HipMCL** — *HBioinfo17 (RECOMB 2026)*
-- **Co‑author** — SETN '18: 10th Hellenic Conference on AI
 
 ---
 
