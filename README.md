@@ -11,6 +11,22 @@ I'm a ML/AI engineer and researcher with a background in deep learning, computat
 
 My goal is to work at the intersection of **bioinformatics**, **engineering**, and **research** — building robust, interpretable, and scalable systems that bridge computational methods with biological discovery. I thrive on combining mathematical rigor with applied problem‑solving, from deriving backpropagation from first principles to deploying production‑ready pipelines.
 
+## 🎬 Demos
+
+<p align="center">
+  <a href="https://youtu.be/LSx3SHB2Lt4">
+    <img src="https://img.youtube.com/vi/LSx3SHB2Lt4/maxresdefault.jpg" width="400" alt="MedDiSC Demo"/>
+    <br>
+    <img src="https://img.shields.io/badge/▶️_Play_MedDiSC_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://youtu.be/g4cxpcj2UFA">
+    <img src="https://img.youtube.com/vi/g4cxpcj2UFA/maxresdefault.jpg" width="400" alt="YOLOv3 Demo"/>
+    <br>
+    <img src="https://img.shields.io/badge/▶️_Play_YOLOv3_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+</p>
+
 ---
 
 ## 🔬 Research Interests
