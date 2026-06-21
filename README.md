@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="asset/seqwork-logo-coral-filled.svg" width="80" alt="SEQWORK" align="center"/>
-  <strong style="font-size:28px; color:#ff4242;">SEQWORK</strong><br>
-  <span style="font-size:14px; color:#555;">Sequence and Image Processing Products and Services</span>
+  <strong style="font-size:32px;">SEQWORK</strong><br>
+  <span style="font-size:16px; color:#555;">Image &amp; Sequence Processing Solutions</span>
 </p>
 
 # 👋 Hi, I'm Apostolos M. Dimoulakis
