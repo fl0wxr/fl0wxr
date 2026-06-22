@@ -52,7 +52,7 @@
         <sub><strong>MedDiSC</strong> — DICOM de‑identification &amp; segmentation</sub>
       </td>
       <td align="center">
-        <a href="">
+        <a href="https://www.researchgate.net/publication/326250138_A_Nature_Inspired_metaheuristic_for_Optimal_Leveling_of_Resources_in_Project_Management">
           <img src="sio.png" width="400" alt="YOLOv3 Demo"/>
         </a>
         <br>
