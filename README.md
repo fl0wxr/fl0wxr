@@ -34,6 +34,34 @@
   </table>
 </div>
 
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://drive.google.com/file/d/1AVaMdupbLhaNpim_sLAkbQsNUr2tf3QD/view?usp=sharing">
+          <img src="msc-thesis" width="400" alt="StratoCluster"/>
+        </a>
+        <br>
+        <sub><strong>Computational Genomics</strong> — Analysis of a Scalable and Reproducible Clustering Workflow in Protein Sequence Similarity Networks</sub>
+      </td>
+      <td align="center">
+        <a href="https://youtu.be/LSx3SHB2Lt4?si=mMFd4puYkq57WwtM&t=130">
+          <img src="meddisc-solution.png" width="400" alt="MedDiSC Demo"/>
+        </a>
+        <br>
+        <sub><strong>MedDiSC</strong> — DICOM de‑identification &amp; segmentation</sub>
+      </td>
+      <td align="center">
+        <a href="https://youtu.be/g4cxpcj2UFA?si=ZU24iMp_5C_fyEHS&t=54">
+          <img src="yolov3-wildfire-detector.png" width="400" alt="YOLOv3 Demo"/>
+        </a>
+        <br>
+        <sub><strong>YOLOv3</strong> — Wildfire detection</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
 <p align="center">
   <span style="font-size:14px; color:#888;">— built by —</span>
 </p>
