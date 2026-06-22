@@ -11,7 +11,7 @@
     <tr>
       <td align="center">
         <a href="https://github.com/fl0wxr/SmokeSegmenter">
-          <img src="https://github.com/fl0wxr/SmokeSegmenter/blob/master/data_tools/fig1.png" width="400" alt="SmokeSegmenter Demo"/>
+          <img src="smoke-segmenter-oracle-panel.png" width="400" alt="SmokeSegmenter Demo"/>
         </a>
         <br>
         <sub><strong>SmokeSegmenter</strong> — Automated smoke segmentation using SAM</sub>
