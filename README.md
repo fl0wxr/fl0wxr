@@ -86,10 +86,10 @@
       </td>
       <td align="center" width="33%">
         <a href="https://drive.google.com/drive/folders/1p6rbD9gTxQGJupflapUb5uy8YYFP4eRU?usp=sharing">
-          <img src="x" width="100%" alt="Coming Soon"/>
+          <img src="maths.png" width="100%" alt="Coming Soon"/>
         </a>
         <br>
-        <sub><strong></strong></sub>
+        <sub><strong>Rigorous Mathematics</strong> — In this instance I show the Dominated Convergence Theorem (my detailed proof @ [[url](https://drive.google.com/file/d/1bqj_7b9QpY5DEytd_MKlyMv_zKwQWQK0/view?usp=sharing)]) applied for the Lebesgue Integral when I was doing mathematics based on Axler's Measure Integration &amp; Real Analysis up to 2022</sub>
       </td>
     </tr>
   </table>
