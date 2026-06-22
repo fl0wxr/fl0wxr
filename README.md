@@ -63,7 +63,7 @@ Open to freelancing, consulting, and full‑time roles. I deliver value, not jus
 
 **Bioinformatics:** DIAMOND, MCL, HipMCL, ChimeraX, BLAST
 
-**Theoretical:** ML, Deep Learning, Linear Algebra, Statistics, Convex Optimization, Mathematical Analysis, Genomics, Operations Research
+**Theoretical:** ML, Deep Learning, Linear Algebra, Statistics, Convex Optimization, [Mathematical Analysis](https://drive.google.com/file/d/1SJsKJWXQa-w-zUuzjFBiInODYKBM7dEu/view), Genomics, Operations Research
 
 ---
 
@@ -71,7 +71,6 @@ Open to freelancing, consulting, and full‑time roles. I deliver value, not jus
 
 - [Applications of Convolutional Neural Networks in Image and Natural Language Processing](https://hellanicus.lib.aegean.gr/items/aff2b3b4-2f7d-48c5-97d0-db3006a1fc74) — Undergraduate thesis
 - [A nature inspired metaheuristic for optimal leveling of resources in project management](https://www.researchgate.net/publication/326250138_A_Nature_Inspired_metaheuristic_for_Optimal_Leveling_of_Resources_in_Project_Management) — SETN '18
-- [Complementary Notes on Measure Theory and the Lebesgue Integral](https://drive.google.com/file/d/1SJsKJWXQa-w-zUuzjFBiInODYKBM7dEu/view)
 - [The Backpropagation Algorithm for Convolutional Neural Networks](https://drive.google.com/file/d/1O0ROuO3EQ0fxcG2K_GNI6ywh-bs1CGxp/view)
 - **StratoCluster: Large-scale Clustering of the Natural Genome Sequence Space** — *HBioinfo17 (RECOMB 2026)*
 - **Co‑author** — SETN '18: 10th Hellenic Conference on AI
@@ -95,14 +94,6 @@ Open to freelancing, consulting, and full‑time roles. I deliver value, not jus
 
 - **M.Sc. in Artificial Intelligence** — Aristotle University of Thessaloniki *(completed 2026)*
 - **M.Eng. in Financial & Management Engineering** — University of the Aegean (2014–2019)
-
----
-
-## 🌱 Currently
-
-- Applying for research and engineering roles in AI/ML
-- Exploring interpretability in AI (philosophical and technical)
-- Open to collaborations in computational biology and deep learning
 
 ---
 
