@@ -18,14 +18,14 @@
       </td>
       <td align="center">
         <a href="https://youtu.be/LSx3SHB2Lt4?si=mMFd4puYkq57WwtM&t=130">
-          <img src="https://img.youtube.com/vi/LSx3SHB2Lt4/maxresdefault.jpg" width="400" alt="MedDiSC Demo"/>
+          <img src="meddisc-solution.png" width="400" alt="MedDiSC Demo"/>
         </a>
         <br>
         <sub><strong>MedDiSC</strong> — DICOM de‑identification &amp; segmentation</sub>
       </td>
       <td align="center">
         <a href="https://youtu.be/g4cxpcj2UFA?si=ZU24iMp_5C_fyEHS&t=54">
-          <img src="https://img.youtube.com/vi/g4cxpcj2UFA/maxresdefault.jpg" width="400" alt="YOLOv3 Demo"/>
+          <img src="yolov3-wildfire-detector.png" width="400" alt="YOLOv3 Demo"/>
         </a>
         <br>
         <sub><strong>YOLOv3</strong> — Wildfire detection</sub>
