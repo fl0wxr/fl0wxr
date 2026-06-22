@@ -60,7 +60,7 @@
           <img src="meng-thesis.png" width="100%" alt="M.Eng. Thesis"/>
         </a>
         <br>
-        <sub><strong>M.Eng. Thesis</strong> — Transferring properties of CNNs between image and text classification</sub>
+        <sub><strong>M.Eng. Thesis</strong> — Transfer learning of CNNs between image and text modalities</sub>
       </td>
     </tr>
   </table>
