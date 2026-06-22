@@ -4,7 +4,7 @@
   <span style="font-size:16px; color:#666;">Image &amp; Sequence Processing Solutions</span>
 </p>
 
-## 🎬 Demos
+<h1 align="center">🎬 Demos</h1>
 
 <p align="center">
   <a href="https://youtu.be/LSx3SHB2Lt4?si=mMFd4puYkq57WwtM&t=130">
