@@ -39,7 +39,7 @@
     <tr>
       <td align="center">
         <a href="https://drive.google.com/file/d/1AVaMdupbLhaNpim_sLAkbQsNUr2tf3QD/view?usp=sharing">
-          <img src="msc-thesis" width="400" alt="StratoCluster"/>
+          <img src="msc-thesis.png" width="400" alt="StratoCluster"/>
         </a>
         <br>
         <sub><strong>Computational Genomics</strong> — Analysis of a Scalable and Reproducible Clustering Workflow in Protein Sequence Similarity Networks</sub>
