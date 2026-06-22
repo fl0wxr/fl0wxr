@@ -71,18 +71,18 @@
   <table>
     <tr>
       <td align="center" width="33%">
-        <a href="https://github.com/fl0wxr/SmokeSegmenter">
-          <img src="smoke-segmenter-oracle-panel.png" width="100%" alt="SmokeSegmenter Demo"/>
+        <a href="https://github.com/fl0wxr/netfieldv1">
+          <img src="conv2d.png" width="100%" alt="netfieldv1"/>
         </a>
         <br>
-        <sub><strong>SmokeSegmenter</strong> — Automated smoke segmentation using SAM</sub>
+        <sub><strong>x</strong> — x</sub>
       </td>
       <td align="center" width="33%">
         <a href="https://ssrn.com/abstract=4813479">
           <img src="meddisc-solution.png" width="100%" alt="MedDiSC Demo"/>
         </a>
         <br>
-        <sub><strong>MedDiSC</strong> — DICOM de‑identification, Segmentation &amp; Curation Tool [1]</sub>
+        <sub><strong>x</strong> — x</sub>
       </td>
       <td align="center" width="33%">
         <a href="https://doi.org/10.1145/3200947.3201014">
