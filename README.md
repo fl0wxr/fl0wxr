@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="seqwork-logo-coral-filled.svg" width="100" alt="SEQWORK"/><br>
-  <strong style="font-size:40px">SeqWork</strong><br>
-  <span style="font-size:16px">Image &amp; Sequence Processing Solutions</span>
+  <img src="seqwork-logo-coral-filled.svg" width="130" alt="SEQWORK"/><br>
+  <strong>SeqWork</strong><br>
+  Image &amp; Sequence Processing R&D
 </p>
 
 > SOLUTIONS
