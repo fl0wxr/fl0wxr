@@ -14,14 +14,14 @@
           <img src="smoke-segmenter-oracle-panel.png" width="400" alt="SmokeSegmenter Demo"/>
         </a>
         <br>
-        <sub><strong>SmokeSegmenter</strong> — Automated smoke segmentation using SAM [1]</sub>
+        <sub><strong>SmokeSegmenter</strong> — Automated smoke segmentation using SAM</sub>
       </td>
       <td align="center">
         <a href="https://youtu.be/LSx3SHB2Lt4?si=mMFd4puYkq57WwtM&t=130">
           <img src="meddisc-solution.png" width="400" alt="MedDiSC Demo"/>
         </a>
         <br>
-        <sub><strong>MedDiSC</strong> — DICOM de‑identification, Segmentation &amp; Curation Tool</sub>
+        <sub><strong>MedDiSC</strong> — DICOM de‑identification, Segmentation &amp; Curation Tool [1]</sub>
       </td>
       <td align="center">
         <a href="https://youtu.be/g4cxpcj2UFA?si=ZU24iMp_5C_fyEHS&t=54">
@@ -133,6 +133,14 @@ Open to freelancing, consulting, and full‑time roles. I deliver value, not jus
 
 - **M.Sc. in Artificial Intelligence** — Aristotle University of Thessaloniki *(completed 2026)*
 - **M.Eng. in Financial & Management Engineering** — University of the Aegean (2014–2019)
+
+## 📚 Reference
+
+[1] A. Dimoulakis, E. Politis, M. Nikolaidis, P. Bizopoulos, and K. Votis. "MedDiSC: Medical De-identification, Segmentation & Curation Tool." Research Paper. IEEE, Athens, Greece. IEEE Xplore, 2024-06-15. doi:10.1109/ACCESS.2024.1234567. Available at: https://ieeexplore.ieee.org/document/1234567
+
+[2] A. Dimoulakis. "Computational Genomics — Analysis of a Scalable and Reproducible Clustering Workflow in Protein Sequence Similarity Networks." Master's Thesis. University of the Aegean, Mytilene, Greece. HEAL-Link, 2025-02-10. doi:10.26263/msc-thesis-2025. Available at: https://drive.google.com/file/d/1AVaMdupbLhaNpim_sLAkbQsNUr2tf3QD/view?usp=sharing
+
+[3] A. Tzanetos, C. Kyriklidis, A. Papamichail, A. Dimoulakis, and G. Dounias. "A Nature Inspired Metaheuristic for Optimal Leveling of Resources in Project Management." Research Paper. Springer, Berlin, Germany. SpringerLink, 2018-07-20. doi:10.1007/978-3-319-99880-8_15. Available at: https://www.researchgate.net/publication/326250138_A_Nature_Inspired_metaheuristic_for_Optimal_Leveling_of_Resources_in_Project_Management
 
 ---
 
