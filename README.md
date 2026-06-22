@@ -57,13 +57,13 @@ Open to freelancing, consulting, and full‑time roles. I deliver value, not jus
 
 ## 🛠️ Technical Skills
 
-**Expertise:** Python, NumPy, Git, Bash
+**Expertise:** Python, NumPy, Git, Bash Shell
 
-**Familiarity:** C, PyTorch, MySQL, JavaScript, PHP, Java, TeX, MATLAB, Pandas, Matplotlib, Docker
+**Familiarity:** C, PyTorch, MySQL, JavaScript, PHP, Markdown, HTML, Java, TeX, MATLAB, Segment Anything Model, YOLO, darknet, Pandas, Matplotlib, Docker
 
-**Bioinformatics:** DIAMOND, MCL, HipMCL, ChimeraX, BLAST
+**Bioinformatics Tools:** DIAMOND, MCL, HipMCL, ChimeraX, BLAST
 
-**Theoretical:** ML, Deep Learning, Linear Algebra, Statistics, Convex Optimization, [Mathematical Analysis](https://drive.google.com/file/d/1SJsKJWXQa-w-zUuzjFBiInODYKBM7dEu/view), Genomics, Operations Research
+**Theoretical:** Machine Learning, Deep Learning, Linear Algebra, Statistics, Convex Optimization, [Mathematical Analysis](https://drive.google.com/file/d/1SJsKJWXQa-w-zUuzjFBiInODYKBM7dEu/view), Genomics, Finance, Operations Research
 
 ---
 
