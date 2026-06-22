@@ -75,7 +75,7 @@
           <img src="conv2d.png" width="100%" alt="netfieldv1"/>
         </a>
         <br>
-        <sub><strong>x</strong> — x</sub>
+        <sub><strong>netfieldv1</strong> — Derived, vectorized, and implemented backpropagation from scratch for any LeNet-like CNN architecture (NumPy/CuPy)</sub>
       </td>
       <td align="center" width="33%">
         <a href="https://ssrn.com/abstract=4813479">
