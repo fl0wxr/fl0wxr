@@ -4,7 +4,6 @@
   <br>
   Image &amp; Sequence Processing R&D
 </p>
-> From interpretable and complete theory... all the way to practical services and products.
 
 ---
 
