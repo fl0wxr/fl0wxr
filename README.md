@@ -1,10 +1,11 @@
 <p align="center">
   <img src="seqwork-logo-coral-filled.svg" width="100" alt="SEQWORK"/><br>
-  <strong style="font-size:32px; color:#ff4242;">SeqWork</strong><br>
-  <span style="font-size:16px; color:#666;">Image &amp; Sequence Processing Solutions</span>
+  <strong style="font-size:32px">SeqWork</strong><br>
+  <span style="font-size:16px">Image &amp; Sequence Processing Solutions</span>
 </p>
 
-Examples:
+> SOLUTIONS
+
 <div align="center">
   <table>
     <tr>
