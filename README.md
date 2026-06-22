@@ -78,18 +78,18 @@
         <sub><strong>netfieldv1</strong> — Derived, vectorized, and implemented backpropagation from scratch for any LeNet-like CNN architecture (NumPy/CuPy)</sub>
       </td>
       <td align="center" width="33%">
-        <a href="https://ssrn.com/abstract=4813479">
-          <img src="meddisc-solution.png" width="100%" alt="MedDiSC Demo"/>
-        </a>
-        <br>
-        <sub><strong>x</strong> — x</sub>
-      </td>
-      <td align="center" width="33%">
         <a href="https://doi.org/10.1145/3200947.3201014">
           <img src="sio.png" width="100%" alt="Sonar Inspired Optimization"/>
         </a>
         <br>
         <sub><strong>Sonar Inspired Optimization (SIO)</strong> — A nature-inspired metaheuristic for optimal resource leveling in project management [4]</sub>
+      </td>
+      <td align="center" width="33%">
+        <a href="#">
+          <img src="x" width="100%" alt="Coming Soon"/>
+        </a>
+        <br>
+        <sub><strong>Coming Soon</strong></sub>
       </td>
     </tr>
   </table>
