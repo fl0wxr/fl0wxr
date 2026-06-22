@@ -139,7 +139,7 @@ Open to freelancing, consulting, and full‑time roles. I deliver value, not jus
 
 **Bioinformatics Tools:** DIAMOND, MCL, HipMCL, ChimeraX, BLAST
 
-**Theoretical:** Machine Learning, Deep Learning, Linear Algebra, Statistics, Convex Optimization, [Mathematical Analysis](https://drive.google.com/file/d/1SJsKJWXQa-w-zUuzjFBiInODYKBM7dEu/view), Genomics, Finance, Operations Research
+**Theoretical:** Machine Learning, Deep Learning, Linear Algebra, Statistics, Convex Optimization, Mathematical Analysis, Genomics, Finance, Operations Research, Computer Vision, Sequence to Sequence Processing
 
 ## 📂 Featured Projects
 
