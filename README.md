@@ -46,7 +46,7 @@
           <img src="msc-thesis.png" width="100%" alt="StratoCluster"/>
         </a>
         <br>
-        <sub><strong>Computational Genomics</strong> — Baseline analysis of the 12 thousand reference proteomes; presented in HBioinfo17 (RECOMB 2026) [2]</sub>
+        <sub><strong>Computational Genomics</strong> — Baseline analysis of the twelve thousand reference proteomes; presented in HBioinfo17 (RECOMB 2026) [2]</sub>
       </td>
       <td align="center" width="33%">
         <a href="https://github.com/fl0wxr/DICOMImageDeIdentifier">
