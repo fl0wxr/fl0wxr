@@ -45,18 +45,18 @@
         <sub><strong>Computational Genomics</strong> — Analysis of a Scalable and Reproducible Clustering Workflow in Protein Sequence Similarity Networks</sub>
       </td>
       <td align="center">
-        <a href="https://youtu.be/LSx3SHB2Lt4?si=mMFd4puYkq57WwtM&t=130">
-          <img src="meddisc-solution.png" width="400" alt="MedDiSC Demo"/>
+        <a href="https://incisive-project.eu/wp-content/uploads/2024/06/INCISIVE_D6-7_Best-Practices_final.pdf">
+          <img src="dicom-deidentifier-workflow.png" width="400" alt="MedDiSC Demo"/>
         </a>
         <br>
         <sub><strong>MedDiSC</strong> — DICOM de‑identification &amp; segmentation</sub>
       </td>
       <td align="center">
-        <a href="https://youtu.be/g4cxpcj2UFA?si=ZU24iMp_5C_fyEHS&t=54">
-          <img src="yolov3-wildfire-detector.png" width="400" alt="YOLOv3 Demo"/>
+        <a href="">
+          <img src="sio.png" width="400" alt="YOLOv3 Demo"/>
         </a>
         <br>
-        <sub><strong>YOLOv3</strong> — Wildfire detection</sub>
+        <sub>Resource Leveling in Resource Management</sub>
       </td>
     </tr>
   </table>
