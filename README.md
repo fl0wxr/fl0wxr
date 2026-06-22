@@ -9,23 +9,23 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center">
+      <td align="center" width="33%">
         <a href="https://github.com/fl0wxr/SmokeSegmenter">
-          <img src="smoke-segmenter-oracle-panel.png" width="400" alt="SmokeSegmenter Demo"/>
+          <img src="smoke-segmenter-oracle-panel.png" width="100%" alt="SmokeSegmenter Demo"/>
         </a>
         <br>
         <sub><strong>SmokeSegmenter</strong> — Automated smoke segmentation using SAM</sub>
       </td>
-      <td align="center">
+      <td align="center" width="33%">
         <a href="https://youtu.be/LSx3SHB2Lt4?si=mMFd4puYkq57WwtM&t=130">
-          <img src="meddisc-solution.png" width="400" alt="MedDiSC Demo"/>
+          <img src="meddisc-solution.png" width="100%" alt="MedDiSC Demo"/>
         </a>
         <br>
         <sub><strong>MedDiSC</strong> — DICOM de‑identification, Segmentation &amp; Curation Tool [1]</sub>
       </td>
-      <td align="center">
+      <td align="center" width="33%">
         <a href="https://youtu.be/g4cxpcj2UFA?si=ZU24iMp_5C_fyEHS&t=54">
-          <img src="yolov3-wildfire-detector.png" width="400" alt="YOLOv3 Demo"/>
+          <img src="yolov3-wildfire-detector.png" width="100%" alt="YOLOv3 Demo"/>
         </a>
         <br>
         <sub><strong>YOLOv3</strong> — Wildfire detection</sub>
