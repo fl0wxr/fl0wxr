@@ -54,11 +54,11 @@
         <sub><strong>DICOM De-identifier Utility</strong> — De-identified over two million DICOM images for INCISIVE (HORIZON 2020) [2]</sub>
       </td>
       <td align="center" width="33%">
-        <a href="https://www.researchgate.net/publication/326250138_A_Nature_Inspired_metaheuristic_for_Optimal_Leveling_of_Resources_in_Project_Management">
-          <img src="sio.png" width="100%" alt="YOLOv3 Demo"/>
+        <a href="https://hellanicus.lib.aegean.gr/items/aff2b3b4-2f7d-48c5-97d0-db3006a1fc74">
+          <img src="meng-thesis.png" width="100%" alt="M.Eng. Thesis"/>
         </a>
         <br>
-        <sub>Resource Leveling in Resource Management [3]</sub>
+        <sub><strong>M.Eng. Thesis</strong> — Transferring properties of CNNs between image and text classification</sub>
       </td>
     </tr>
   </table>
