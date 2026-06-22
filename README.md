@@ -47,7 +47,7 @@
           <img src="msc-thesis.png" width="100%" alt="StratoCluster"/>
         </a>
         <br>
-        <sub><strong>Computational Genomics</strong> — Baseline analysis of the twelve thousand natural proteomes; presented in HBioinfo17 (RECOMB 2026) [2]</sub>
+        <sub><strong>Computational Genomics</strong> — Baseline analysis [2] of the twelve thousand natural proteomes; part of the StratoCluster research initiative; presented in HBioinfo17 (RECOMB 2026)</sub>
       </td>
       <td align="center" width="33%">
         <a href="https://github.com/fl0wxr/DICOMImageDeIdentifier">
@@ -62,6 +62,34 @@
         </a>
         <br>
         <sub><strong>M.Eng. Thesis</strong> — Transfer learning of CNNs between image and text modalities</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <a href="https://github.com/fl0wxr/SmokeSegmenter">
+          <img src="smoke-segmenter-oracle-panel.png" width="100%" alt="SmokeSegmenter Demo"/>
+        </a>
+        <br>
+        <sub><strong>SmokeSegmenter</strong> — Automated smoke segmentation using SAM</sub>
+      </td>
+      <td align="center" width="33%">
+        <a href="https://ssrn.com/abstract=4813479">
+          <img src="meddisc-solution.png" width="100%" alt="MedDiSC Demo"/>
+        </a>
+        <br>
+        <sub><strong>MedDiSC</strong> — DICOM de‑identification, Segmentation &amp; Curation Tool [1]</sub>
+      </td>
+      <td align="center" width="33%">
+        <a href="https://doi.org/10.1145/3200947.3201014">
+          <img src="sio.png" width="100%" alt="Sonar Inspired Optimization"/>
+        </a>
+        <br>
+        <sub><strong>Sonar Inspired Optimization (SIO)</strong> — A nature-inspired metaheuristic for optimal resource leveling in project management [4]</sub>
       </td>
     </tr>
   </table>
@@ -112,15 +140,6 @@ Open to freelancing, consulting, and full‑time roles. I deliver value, not jus
 **Bioinformatics Tools:** DIAMOND, MCL, HipMCL, ChimeraX, BLAST
 
 **Theoretical:** Machine Learning, Deep Learning, Linear Algebra, Statistics, Convex Optimization, [Mathematical Analysis](https://drive.google.com/file/d/1SJsKJWXQa-w-zUuzjFBiInODYKBM7dEu/view), Genomics, Finance, Operations Research
-
-## 📑 Publications & Presentations
-
-- [A nature inspired metaheuristic for optimal leveling of resources in project management](https://www.researchgate.net/publication/326250138_A_Nature_Inspired_metaheuristic_for_Optimal_Leveling_of_Resources_in_Project_Management) — SETN '18
-- [The Backpropagation Algorithm for Convolutional Neural Networks](https://drive.google.com/file/d/1O0ROuO3EQ0fxcG2K_GNI6ywh-bs1CGxp/view)
-- **StratoCluster: Large-scale Clustering of the Natural Genome Sequence Space**
-  - **Co-author** — Presented @ HBioinfo17 (RECOMB 2026)
-- [Applications of Convolutional Neural Networks in Image and Natural Language Processing](https://hellanicus.lib.aegean.gr/items/aff2b3b4-2f7d-48c5-97d0-db3006a1fc74) — Undergraduate thesis
-  - **Co‑author** — Published @ SETN '18: 10th Hellenic Conference on AI
 
 ## 📂 Featured Projects
 
