@@ -36,8 +36,6 @@
   </table>
 </div>
 
----
-
 > `> RESEARCH`
 
 <div align="center">
@@ -67,8 +65,6 @@
     </tr>
   </table>
 </div>
-
----
 
 <p align="center">
   <span style="font-size:14px; color:#888;">— built by —</span>
