@@ -3,9 +3,8 @@
   <strong>SeqWork</strong>
   <br>
   Image &amp; Sequence Processing R&D
-  <br>
-  > From interpretable and complete theory... all the way to practical services and products.
 </p>
+> From interpretable and complete theory... all the way to practical services and products.
 
 ---
 
