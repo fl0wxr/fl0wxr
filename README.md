@@ -44,14 +44,14 @@
           <img src="msc-thesis.png" width="100%" alt="StratoCluster"/>
         </a>
         <br>
-        <sub><strong>Computational Genomics</strong> — Baseline analysis of the 12 thousand reference proteomes; presented in HBioinfo17 (RECOMB 2026)</sub>
+        <sub><strong>Computational Genomics</strong> — Baseline analysis of the 12 thousand reference proteomes; presented in HBioinfo17 (RECOMB 2026) [2]</sub>
       </td>
       <td align="center" width="33%">
-        <a href="https://incisive-project.eu/wp-content/uploads/2024/06/INCISIVE_D6-7_Best-Practices_final.pdf">
+        <a href="https://github.com/fl0wxr/DICOMImageDeIdentifier">
           <img src="dicom-deidentifier-workflow.png" width="100%" alt="MedDiSC Demo"/>
         </a>
         <br>
-        <sub><strong>DICOM De-identifier Utility</strong> — De-identified over two million DICOM images for INCISIVE (HORIZON 2020) [2]</sub>
+        <sub><strong>DICOM De-identifier Utility</strong> — De-identified over two million DICOM images for INCISIVE (HORIZON 2020) [3]</sub>
       </td>
       <td align="center" width="33%">
         <a href="https://hellanicus.lib.aegean.gr/items/aff2b3b4-2f7d-48c5-97d0-db3006a1fc74">
@@ -112,11 +112,12 @@ Open to freelancing, consulting, and full‑time roles. I deliver value, not jus
 
 ## 📑 Publications & Presentations
 
-- [Applications of Convolutional Neural Networks in Image and Natural Language Processing](https://hellanicus.lib.aegean.gr/items/aff2b3b4-2f7d-48c5-97d0-db3006a1fc74) — Undergraduate thesis
 - [A nature inspired metaheuristic for optimal leveling of resources in project management](https://www.researchgate.net/publication/326250138_A_Nature_Inspired_metaheuristic_for_Optimal_Leveling_of_Resources_in_Project_Management) — SETN '18
 - [The Backpropagation Algorithm for Convolutional Neural Networks](https://drive.google.com/file/d/1O0ROuO3EQ0fxcG2K_GNI6ywh-bs1CGxp/view)
-- **StratoCluster: Large-scale Clustering of the Natural Genome Sequence Space** — *HBioinfo17 (RECOMB 2026)*
-- **Co‑author** — SETN '18: 10th Hellenic Conference on AI
+- **StratoCluster: Large-scale Clustering of the Natural Genome Sequence Space**
+  - **Co-author** — Presented @ HBioinfo17 (RECOMB 2026)
+- [Applications of Convolutional Neural Networks in Image and Natural Language Processing](https://hellanicus.lib.aegean.gr/items/aff2b3b4-2f7d-48c5-97d0-db3006a1fc74) — Undergraduate thesis
+  - **Co‑author** — Published @ SETN '18: 10th Hellenic Conference on AI
 
 ## 📂 Featured Projects
 
@@ -136,11 +137,13 @@ Open to freelancing, consulting, and full‑time roles. I deliver value, not jus
 
 ## 📚 Reference
 
-[1] A. Dimoulakis, E. Politis, M. Nikolaidis, P. Bizopoulos, and K. Votis. "MedDiSC: Medical De-identification, Segmentation & Curation Tool." Research Paper. IEEE, Athens, Greece. IEEE Xplore, 2024-06-15. doi:10.1109/ACCESS.2024.1234567. Available at: https://ieeexplore.ieee.org/document/1234567
+[1] A. Dimoulakis, E. Politis, M. Nikolaidis, P. Bizopoulos, and K. Votis. "MedDiSC: Medical De-identification, Segmentation & Curation Tool". Manuscript. SSRN. 2024-05-01. Available at: https://ssrn.com/abstract=4813479
 
-[2] A. Dimoulakis. "Computational Genomics — Analysis of a Scalable and Reproducible Clustering Workflow in Protein Sequence Similarity Networks." Master's Thesis. University of the Aegean, Mytilene, Greece. HEAL-Link, 2025-02-10. doi:10.26263/msc-thesis-2025. Available at: https://drive.google.com/file/d/1AVaMdupbLhaNpim_sLAkbQsNUr2tf3QD/view?usp=sharing
+[2] A. Dimoulakis. "Computational Genomics — Analysis of a Scalable and Reproducible Clustering Workflow in Protein Sequence Similarity Networks". Master's Thesis. Aristotle University of Thessaloniki, Greece. 2026. Available at: https://drive.google.com/file/d/1AVaMdupbLhaNpim_sLAkbQsNUr2tf3QD/view?usp=sharing
 
-[3] A. Tzanetos, C. Kyriklidis, A. Papamichail, A. Dimoulakis, and G. Dounias. "A Nature Inspired Metaheuristic for Optimal Leveling of Resources in Project Management." Research Paper. Springer, Berlin, Germany. SpringerLink, 2018-07-20. doi:10.1007/978-3-319-99880-8_15. Available at: https://www.researchgate.net/publication/326250138_A_Nature_Inspired_metaheuristic_for_Optimal_Leveling_of_Resources_in_Project_Management
+[3] INCISIVE Project Consortium. "D6.7 Best Practices for DICOM De-identification". Project Deliverable. INCISIVE (HORIZON 2020). 2024-06-30. Available at: https://incisive-project.eu/wp-content/uploads/2024/06/INCISIVE_D6-7_Best-Practices_final.pdf
+
+[4] [3] A. Tzanetos, C. Kyriklidis, A. Papamichail, A. Dimoulakis, and G. Dounias. "A Nature Inspired Metaheuristic for Optimal Leveling of Resources in Project Management". Conference Paper. Association for Computing Machinery (ACM), New York, United States. SETN '18: Proceedings of the 10th Hellenic Conference on Artificial Intelligence, 2018-07-09. doi:10.1145/3200947.3201014. Available at: https://doi.org/10.1145/3200947.3201014
 
 ---
 
