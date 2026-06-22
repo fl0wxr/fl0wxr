@@ -51,7 +51,7 @@
           <img src="dicom-deidentifier-workflow.png" width="400" alt="MedDiSC Demo"/>
         </a>
         <br>
-        <sub><strong>MedDiSC</strong> — DICOM de‑identification &amp; segmentation</sub>
+        <sub><strong>DICOM De-identifier Workflow</strong> — De-identified over two million DICOM images for INCISIVE (HORIZON 2020)</sub>
       </td>
       <td align="center">
         <a href="https://www.researchgate.net/publication/326250138_A_Nature_Inspired_metaheuristic_for_Optimal_Leveling_of_Resources_in_Project_Management">
