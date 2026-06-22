@@ -4,6 +4,17 @@
   <span style="font-size:16px; color:#666;">Image &amp; Sequence Processing Solutions</span>
 </p>
 
+## 🎬 Demos
+
+<p align="center">
+  <a href="https://youtu.be/LSx3SHB2Lt4?si=mMFd4puYkq57WwtM&t=130">
+    <img src="https://img.youtube.com/vi/LSx3SHB2Lt4/maxresdefault.jpg" width="400" alt="MedDiSC Demo"/>
+  </a>
+  <a href="https://youtu.be/g4cxpcj2UFA?si=ZU24iMp_5C_fyEHS&t=54">
+    <img src="https://img.youtube.com/vi/g4cxpcj2UFA/maxresdefault.jpg" width="400" alt="YOLOv3 Demo"/>
+  </a>
+</p>
+
 <p align="center">
   <span style="font-size:14px; color:#888;">— built by —</span>
 </p>
@@ -29,19 +40,6 @@ I am a ML/AI engineer and researcher with a background in deep learning, computa
 I build things that work — in bioinformatics, in engineering, in research, and in the wild. I build clean, scalable, and documented systems, and I'm just as comfortable deriving math as I am shipping code. From backpropagation by hand to pipelines that process 80 million protein sequences, I bridge theory and practice.
 
 Open to freelancing, consulting, and full‑time roles. I deliver value, not just code. I embrace completeness, and I refuse to vibe code.
-
----
-
-## 🎬 Demos
-
-<p align="center">
-  <a href="https://youtu.be/LSx3SHB2Lt4?si=mMFd4puYkq57WwtM&t=130">
-    <img src="https://img.youtube.com/vi/LSx3SHB2Lt4/maxresdefault.jpg" width="400" alt="MedDiSC Demo"/>
-  </a>
-  <a href="https://youtu.be/g4cxpcj2UFA?si=ZU24iMp_5C_fyEHS&t=54">
-    <img src="https://img.youtube.com/vi/g4cxpcj2UFA/maxresdefault.jpg" width="400" alt="YOLOv3 Demo"/>
-  </a>
-</p>
 
 ---
 
