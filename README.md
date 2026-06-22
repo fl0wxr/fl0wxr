@@ -89,7 +89,7 @@
           <img src="maths.png" width="100%" alt="Coming Soon"/>
         </a>
         <br>
-        <sub><strong>Rigorous Mathematics</strong> — In this instance I show the Dominated Convergence Theorem (my detailed proof @ [[url](https://drive.google.com/file/d/1bqj_7b9QpY5DEytd_MKlyMv_zKwQWQK0/view?usp=sharing)]) applied for the Lebesgue Integral when I was doing mathematics based on Axler's Measure Integration &amp; Real Analysis up to 2022</sub>
+        <sub><strong>Rigorous Mathematics</strong> — In this instance I show the Dominated Convergence Theorem [5] applied for the Lebesgue Integral when I was doing mathematics based on Axler's Measure Integration &amp; Real Analysis up to 2022</sub>
       </td>
     </tr>
   </table>
@@ -166,6 +166,8 @@ Open to freelancing, consulting, and full‑time roles. I deliver value, not jus
 [3] INCISIVE Project Consortium. "D6.7 Best Practices for DICOM De-identification". Project Deliverable. INCISIVE (HORIZON 2020). 2024-06-30. Available at: https://incisive-project.eu/wp-content/uploads/2024/06/INCISIVE_D6-7_Best-Practices_final.pdf
 
 [4] A. Tzanetos, C. Kyriklidis, A. Papamichail, A. Dimoulakis, and G. Dounias. "A Nature Inspired Metaheuristic for Optimal Leveling of Resources in Project Management". Conference Paper. Association for Computing Machinery (ACM), New York, United States. SETN '18: Proceedings of the 10th Hellenic Conference on Artificial Intelligence, 2018-07-09. doi:10.1145/3200947.3201014. Available at: https://doi.org/10.1145/3200947.3201014
+
+[5] Personal notes on "Chapter 6 – Banach Spaces", the Dominated Convergence Theorem, from Axler's *Measure, Integration & Real Analysis*. 2022-06. Available at: https://drive.google.com/file/d/1bqj_7b9QpY5DEytd_MKlyMv_zKwQWQK0/view?usp=sharing
 
 ---
 
