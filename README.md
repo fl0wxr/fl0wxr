@@ -1,8 +1,10 @@
 <p align="center">
   <img src="seqwork-logo-coral-filled.svg" width="130" alt="SEQWORK"/><br>
-  <strong>SeqWork</strong><br>
+  <strong>SeqWork</strong>
+  <br>
   Image &amp; Sequence Processing R&D
-  From interpretable and complete theory... all the way to practical services and products.
+  <br>
+  > From interpretable and complete theory... all the way to practical services and products.
 </p>
 
 ---
