@@ -4,7 +4,9 @@
   Image &amp; Sequence Processing R&D
 </p>
 
-> SOLUTIONS
+---
+
+> `> SOLUTIONS`
 
 <div align="center">
   <table>
@@ -36,7 +38,7 @@
 
 ---
 
-> RESEARCH
+> `> RESEARCH`
 
 <div align="center">
   <table>
@@ -65,6 +67,8 @@
     </tr>
   </table>
 </div>
+
+---
 
 <p align="center">
   <span style="font-size:14px; color:#888;">— built by —</span>
