@@ -59,7 +59,7 @@ Open to freelancing, consulting, and full‑time roles. I deliver value, not jus
 
 **Expertise:** Python, NumPy, Git, Bash
 
-**Familiarity:** C, PyTorch, MySQL, JavaScript, PHP, Java, TeX, MATLAB, Pandas, Matplotlib
+**Familiarity:** C, PyTorch, MySQL, JavaScript, PHP, Java, TeX, MATLAB, Pandas, Matplotlib, Docker
 
 **Bioinformatics:** DIAMOND, MCL, HipMCL, ChimeraX, BLAST
 
