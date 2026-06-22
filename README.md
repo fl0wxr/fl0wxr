@@ -14,7 +14,7 @@
           <img src="smoke-segmenter-oracle-panel.png" width="400" alt="SmokeSegmenter Demo"/>
         </a>
         <br>
-        <sub><strong>SmokeSegmenter</strong> — Automated smoke segmentation using SAM</sub>
+        <sub><strong>SmokeSegmenter</strong> — Automated smoke segmentation using SAM [1]</sub>
       </td>
       <td align="center">
         <a href="https://youtu.be/LSx3SHB2Lt4?si=mMFd4puYkq57WwtM&t=130">
@@ -51,14 +51,14 @@
           <img src="dicom-deidentifier-workflow.png" width="400" alt="MedDiSC Demo"/>
         </a>
         <br>
-        <sub><strong>DICOM De-identifier Utility</strong> — De-identified over two million DICOM images for INCISIVE (HORIZON 2020)</sub>
+        <sub><strong>DICOM De-identifier Utility</strong> — De-identified over two million DICOM images for INCISIVE (HORIZON 2020) [2]</sub>
       </td>
       <td align="center">
         <a href="https://www.researchgate.net/publication/326250138_A_Nature_Inspired_metaheuristic_for_Optimal_Leveling_of_Resources_in_Project_Management">
           <img src="sio.png" width="400" alt="YOLOv3 Demo"/>
         </a>
         <br>
-        <sub>Resource Leveling in Resource Management</sub>
+        <sub>Resource Leveling in Resource Management [3]</sub>
       </td>
     </tr>
   </table>
@@ -78,7 +78,7 @@ I build things that work — in bioinformatics, in engineering, in research, and
 
 Open to freelancing, consulting, and full‑time roles. I deliver value, not just code. I embrace completeness, and I refuse to vibe code.
 
-## 📫 Get in Touch
+### 📫 Contact
 
 <p align="center">
   <a href="https://linkedin.com/in/fl0wxr">
