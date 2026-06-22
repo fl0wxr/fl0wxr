@@ -16,7 +16,7 @@
           <img src="smoke-segmenter-oracle-panel.png" width="100%" alt="SmokeSegmenter Demo"/>
         </a>
         <br>
-        <sub><strong>SmokeSegmenter</strong> — Automated smoke segmentation using SAM</sub>
+        <sub><strong>SmokeSegmenter</strong> — Semi-automated smoke segmentation using SAM</sub>
       </td>
       <td align="center" width="33%">
         <a href="https://youtu.be/LSx3SHB2Lt4?si=mMFd4puYkq57WwtM&t=130">
