@@ -44,7 +44,7 @@
           <img src="msc-thesis.png" width="100%" alt="StratoCluster"/>
         </a>
         <br>
-        <sub><strong>Computational Genomics</strong> — Analysis of a Scalable and Reproducible Clustering Workflow in Protein Sequence Similarity Networks</sub>
+        <sub><strong>Computational Genomics</strong> — Baseline analysis of the 12 thousand reference proteomes presented in HBioinfo17 (RECOMB 2026)</sub>
       </td>
       <td align="center" width="33%">
         <a href="https://incisive-project.eu/wp-content/uploads/2024/06/INCISIVE_D6-7_Best-Practices_final.pdf">
