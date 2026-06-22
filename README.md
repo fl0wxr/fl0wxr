@@ -21,6 +21,16 @@
 
 <h1 align="center">👋 Greetings, I am Apostolos M. Dimoulakis</h1>
 
+## 👨‍💻 About Me
+
+I am a ML/AI engineer and researcher with a background in deep learning, computational genomics, software engineering, and rigorous mathematics.
+
+I build things that work — in bioinformatics, in engineering, in research, and in the wild. I build clean, scalable, and documented systems, and I'm just as comfortable deriving math as I am shipping code. From backpropagation by hand to pipelines that process 80 million protein sequences, I bridge theory and practice.
+
+Open to freelancing, consulting, and full‑time roles. I deliver value, not just code. I embrace completeness, and I refuse to vibe code.
+
+## 📫 Get in Touch
+
 <p align="center">
   <a href="https://linkedin.com/in/fl0wxr">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin" alt="LinkedIn"/>
@@ -33,16 +43,6 @@
   </a>
 </p>
 
-## 👨‍💻 About Me
-
-I am a ML/AI engineer and researcher with a background in deep learning, computational genomics, software engineering, and rigorous mathematics.
-
-I build things that work — in bioinformatics, in engineering, in research, and in the wild. I build clean, scalable, and documented systems, and I'm just as comfortable deriving math as I am shipping code. From backpropagation by hand to pipelines that process 80 million protein sequences, I bridge theory and practice.
-
-Open to freelancing, consulting, and full‑time roles. I deliver value, not just code. I embrace completeness, and I refuse to vibe code.
-
----
-
 ## 🔬 Research Interests
 
 - Machine Learning & Deep Learning
@@ -50,8 +50,6 @@ Open to freelancing, consulting, and full‑time roles. I deliver value, not jus
 - Interpretability & Explainable AI
 - Optimization & Linear Algebra
 - Scalable Graph Clustering & High Performance Computing
-
----
 
 ## 🛠️ Technical Skills
 
@@ -63,8 +61,6 @@ Open to freelancing, consulting, and full‑time roles. I deliver value, not jus
 
 **Theoretical:** Machine Learning, Deep Learning, Linear Algebra, Statistics, Convex Optimization, [Mathematical Analysis](https://drive.google.com/file/d/1SJsKJWXQa-w-zUuzjFBiInODYKBM7dEu/view), Genomics, Finance, Operations Research
 
----
-
 ## 📑 Publications & Presentations
 
 - [Applications of Convolutional Neural Networks in Image and Natural Language Processing](https://hellanicus.lib.aegean.gr/items/aff2b3b4-2f7d-48c5-97d0-db3006a1fc74) — Undergraduate thesis
@@ -72,8 +68,6 @@ Open to freelancing, consulting, and full‑time roles. I deliver value, not jus
 - [The Backpropagation Algorithm for Convolutional Neural Networks](https://drive.google.com/file/d/1O0ROuO3EQ0fxcG2K_GNI6ywh-bs1CGxp/view)
 - **StratoCluster: Large-scale Clustering of the Natural Genome Sequence Space** — *HBioinfo17 (RECOMB 2026)*
 - **Co‑author** — SETN '18: 10th Hellenic Conference on AI
-
----
 
 ## 📂 Featured Projects
 
@@ -86,20 +80,10 @@ Open to freelancing, consulting, and full‑time roles. I deliver value, not jus
 | [`img-sim`](https://github.com/fl0wxr/img-sim) | SimCLR implementation for contrastive learning |
 | [`machine_translator`](https://github.com/fl0wxr/machine_translator) | Greek–English machine translation with RNNs (PyTorch) |
 
----
-
 ## 🎓 Education
 
 - **M.Sc. in Artificial Intelligence** — Aristotle University of Thessaloniki *(completed 2026)*
 - **M.Eng. in Financial & Management Engineering** — University of the Aegean (2014–2019)
-
----
-
-## 📫 Get in Touch
-
-- **Email:** [apo.dimu@gmail.com](mailto:apo.dimu@gmail.com)
-- **Linktree:** [linktr.ee/fl0wxr](https://linktr.ee/fl0wxr)
-- **GitHub:** [github.com/fl0wxr](https://github.com/fl0wxr)
 
 ---
 
