@@ -5,6 +5,18 @@
   Image &amp; Sequence Processing R&D
 </p>
 
+<p align="center">
+  <a href="https://linkedin.com/in/fl0wxr">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://linktr.ee/fl0wxr">
+    <img src="https://img.shields.io/badge/-Linktree-43E55E?style=flat&logo=linktree&logoColor=white" alt="Linktree"/>
+  </a>
+  <a href="https://www.facebook.com/people/Apostolos-Dimoulakis">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+</p>
+
 ---
 
 > `> SOLUTIONS`
@@ -108,20 +120,6 @@ I am a ML/AI engineer and researcher with a background in deep learning, computa
 I build things that work — in bioinformatics, in engineering, in research, and in the wild. I build clean, scalable, and documented systems, and I'm just as comfortable deriving math as I am shipping code. From backpropagation by hand to pipelines that process 80 million protein sequences, I bridge theory and practice.
 
 Open to freelancing, consulting, and full‑time roles. I deliver value, not just code. I embrace completeness, and I refuse to vibe code.
-
-### 📫 Contact
-
-<p align="center">
-  <a href="https://linkedin.com/in/fl0wxr">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="https://linktr.ee/fl0wxr">
-    <img src="https://img.shields.io/badge/-Linktree-43E55E?style=flat&logo=linktree&logoColor=white" alt="Linktree"/>
-  </a>
-  <a href="https://www.facebook.com/people/Apostolos-Dimoulakis">
-    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-</p>
 
 ## 🔬 Research Interests
 
