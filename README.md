@@ -89,7 +89,7 @@
           <img src="maths.png" width="100%" alt="Coming Soon"/>
         </a>
         <br>
-        <sub><strong>Rigorous Mathematics</strong> — In this instance I show the Dominated Convergence Theorem [5] applied for the Lebesgue Integral when I was doing mathematics based on Axler's Measure Integration &amp; Real Analysis up to 2022</sub>
+        <sub><strong>Rigorous Mathematics</strong> — Proof of the Dominated Convergence Theorem for the Lebesgue integral [5], developed while studying Axler's *Measure, Integration & Real Analysis* (2022).</sub>
       </td>
     </tr>
   </table>
