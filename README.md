@@ -39,23 +39,23 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center">
+      <td align="center" width="33%">
         <a href="https://drive.google.com/file/d/1AVaMdupbLhaNpim_sLAkbQsNUr2tf3QD/view?usp=sharing">
-          <img src="msc-thesis.png" width="400" alt="StratoCluster"/>
+          <img src="msc-thesis.png" width="100%" alt="StratoCluster"/>
         </a>
         <br>
         <sub><strong>Computational Genomics</strong> — Analysis of a Scalable and Reproducible Clustering Workflow in Protein Sequence Similarity Networks</sub>
       </td>
-      <td align="center">
+      <td align="center" width="33%">
         <a href="https://incisive-project.eu/wp-content/uploads/2024/06/INCISIVE_D6-7_Best-Practices_final.pdf">
-          <img src="dicom-deidentifier-workflow.png" width="400" alt="MedDiSC Demo"/>
+          <img src="dicom-deidentifier-workflow.png" width="100%" alt="MedDiSC Demo"/>
         </a>
         <br>
         <sub><strong>DICOM De-identifier Utility</strong> — De-identified over two million DICOM images for INCISIVE (HORIZON 2020) [2]</sub>
       </td>
-      <td align="center">
+      <td align="center" width="33%">
         <a href="https://www.researchgate.net/publication/326250138_A_Nature_Inspired_metaheuristic_for_Optimal_Leveling_of_Resources_in_Project_Management">
-          <img src="sio.png" width="400" alt="YOLOv3 Demo"/>
+          <img src="sio.png" width="100%" alt="YOLOv3 Demo"/>
         </a>
         <br>
         <sub>Resource Leveling in Resource Management [3]</sub>
