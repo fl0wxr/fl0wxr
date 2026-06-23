@@ -130,13 +130,6 @@ apo.dimu@gmail.com
 ```
 Replies within 1-2 Days.
 
-## 🔬 Research Interests
-
-- **Computational Genomics & Proteomics**
-- Scalable Graph Clustering & High Performance Computing
-- Machine Learning & Deep Learning
-- Interpretability & Explainable AI
-- Optimization & Linear Algebra
 
 ## 🛠️ Technical Skills
 
@@ -170,6 +163,14 @@ Replies within 1-2 Days.
 **Bioinformatics Tools**: DIAMOND, MCL, HipMCL, ChimeraX, BLAST
 
 **Fields**: Machine Learning, Deep Learning, Linear Algebra, Statistics, Convex Optimization, Mathematical Analysis, Genomics, Finance, Operations Research, Computer Vision, Sequence Processing
+
+## 🔬 Research Interests
+
+- **Computational Genomics & Proteomics**
+- Scalable Graph Clustering & High Performance Computing
+- Machine Learning & Deep Learning
+- Interpretability & Explainable AI
+- Optimization & Linear Algebra
 
 ## 📂 Featured Projects
 
