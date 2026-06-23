@@ -46,7 +46,7 @@
           <img src="yolov3-wildfire-detector.png" width="100%" alt="YOLOv3 Demo"/>
         </a>
         <br>
-        <sub><strong>Startup Initiative</strong> — Wildfire detection system presented in two competitions and a fire department</sub>
+        <sub><strong>Startup Initiative</strong> — Fire detection system presented in two competitions and a fire department</sub>
       </td>
     </tr>
   </table>
