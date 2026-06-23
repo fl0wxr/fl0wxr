@@ -73,7 +73,7 @@
           <img src="meng-thesis.png" width="100%" alt="M.Eng. Thesis"/>
         </a>
         <br>
-        <sub><strong>M.Eng. Thesis</strong> — Transfer learning of CNNs between image and text modalities</sub>
+        <sub><strong>M.Eng. Thesis</strong> — Transfer learning of Convolutional Neural Networks between image and text modalities</sub>
       </td>
     </tr>
   </table>
@@ -117,7 +117,7 @@
 
 I am a ML/AI engineer and researcher with a background in deep learning, computational genomics, software engineering, and rigorous mathematics.
 
-I build things that work — in bioinformatics, in engineering, in research, and in the wild. I build clean, scalable, and documented systems, and I'm just as comfortable deriving math as I am shipping code. From backpropagation by hand to pipelines that process 80 million protein sequences, I bridge theory and practice.
+My research is comprehensive by default. I build things that work — in bioinformatics, in engineering, in research, and in the wild. I build clean, scalable, and documented systems, and I'm just as comfortable deriving math as I am shipping code. From backpropagation by hand to pipelines that process 80 million protein sequences, I bridge theory and practice.
 
 Open to freelancing, consulting, and full‑time roles. I deliver value, not just code. I embrace completeness, and I refuse to vibe code.
 
@@ -156,20 +156,22 @@ Open to freelancing, consulting, and full‑time roles. I deliver value, not jus
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 
+**Machine Learning Tools**: Segment Anything Model, darknet, PyTorch, TensorFlow, 
+
 **Bioinformatics Tools**: DIAMOND, MCL, HipMCL, ChimeraX, BLAST
 
-**Theoretical**: Machine Learning, Deep Learning, Linear Algebra, Statistics, Convex Optimization, Mathematical Analysis, Genomics, Finance, Operations Research, Computer Vision, Sequence Processing
+**Fields**: Machine Learning, Deep Learning, Linear Algebra, Statistics, Convex Optimization, Mathematical Analysis, Genomics, Finance, Operations Research, Computer Vision, Sequence Processing
 
 ## 📂 Featured Projects
 
 | Project | Description |
 |---------|-------------|
 | [`SmokeSegmenter`](https://github.com/fl0wxr/SmokeSegmenter) | Automated smoke segmentation using SAM |
-| [`bioscflow`](https://github.com/fl0wxr/bioscflow) | Python pipeline for large‑scale protein sequence clustering using MCL and HipMCL |
+| [`bioscflow`](https://github.com/fl0wxr/bioscflow) | Python pipeline for large-scale protein sequence clustering using MCL and HipMCL |
 | [`msc-thesis`](https://github.com/fl0wxr/msc-thesis) | LaTeX source for my MSc thesis on scalable protein clustering |
 | [`netfieldv1`](https://github.com/fl0wxr/netfieldv1) | Derived, vectorized, and implemented backpropagation from scratch for any LeNet-like CNN architecture (NumPy/CuPy) |
-| [`img-sim`](https://github.com/fl0wxr/img-sim) | SimCLR implementation for contrastive learning |
-| [`machine_translator`](https://github.com/fl0wxr/machine_translator) | Greek–English machine translation with RNNs (PyTorch) |
+| [`img-sim`](https://github.com/fl0wxr/img-sim) | SimCLR implementation for contrastive learning in CIFAR |
+| [`machine_translator`](https://github.com/fl0wxr/machine_translator) | Greek-English machine translation with RNNs (PyTorch) |
 
 ## 🎓 Education
 
