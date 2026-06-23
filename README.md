@@ -165,7 +165,7 @@ Replies within 1-2 Days.
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 
-**Machine Learning Tools**: Segment Anything Model, darknet, PyTorch, TensorFlow, 
+**Machine Learning Tools**: Segment Anything Model, darknet, PyTorch, TensorFlow, keras-ocr
 
 **Bioinformatics Tools**: DIAMOND, MCL, HipMCL, ChimeraX, BLAST
 
