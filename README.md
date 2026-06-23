@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/fl0wxr">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://linktr.ee/fl0wxr">
     <img src="https://img.shields.io/badge/-Linktree-43E55E?style=flat&logo=linktree&logoColor=white" alt="Linktree"/>
