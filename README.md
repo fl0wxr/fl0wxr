@@ -81,6 +81,7 @@
 
 <div align="center">
   <table>
+    <tr>
       <td align="center" width="33%">
         <a href="https://doi.org/10.1145/3200947.3201014">
           <img src="sio.png" width="100%" alt="Sonar Inspired Optimization"/>
@@ -88,7 +89,6 @@
         <br>
         <sub><strong>Sonar Inspired Optimization (SIO)</strong> — A nature-inspired metaheuristic for optimal resource leveling in project management [4]</sub>
       </td>
-    <tr>
       <td align="center" width="33%">
         <a href="https://github.com/fl0wxr/netfieldv1">
           <img src="conv2d.png" width="100%" alt="netfieldv1"/>
