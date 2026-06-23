@@ -132,8 +132,8 @@ Replies within 1-2 Days.
 
 ## 🔬 Research Interests
 
+- **Computational Genomics & Proteomics**
 - Machine Learning & Deep Learning
-- Computational Genomics & Proteomics
 - Interpretability & Explainable AI
 - Optimization & Linear Algebra
 - Scalable Graph Clustering & High Performance Computing
