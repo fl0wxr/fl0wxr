@@ -124,7 +124,11 @@ My research is comprehensive by default. I build things that work — in bioinfo
 
 Open to freelancing, consulting, and full‑time roles. I deliver value, not just code. I embrace completeness, and I refuse to vibe code.
 
-My email address is: apo.dimu@gmail.com. Max reply wait is 2 Days.
+My email address is
+```
+apo.dimu@gmail.com
+```
+Replies within 1-2 Days.
 
 ## 🔬 Research Interests
 
