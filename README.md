@@ -103,6 +103,7 @@
         </a>
         <br>
         <sub><strong>Multi-modal Video Summarization</strong>: Proof-of-concept pipeline combining audio (MFCC) and visual (CNN) features; keyframe selection formulated as a Knapsack optimization problem; presented as a poster.</sub>
+      </td>
       <td align="center" width="33%">
         <a href="https://drive.google.com/file/d/1bqj_7b9QpY5DEytd_MKlyMv_zKwQWQK0/view?usp=sharing">
           <img src="maths.png" width="100%" alt="axler-mira"/>
