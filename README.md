@@ -104,8 +104,8 @@
         <br>
         <sub><strong>Multi-modal Video Summarization</strong>: Proof-of-concept pipeline combining audio (MFCC) and visual (CNN) features; keyframe selection formulated as a Knapsack optimization problem; presented as a poster.</sub>
       <td align="center" width="33%">
-        <a href="-">
-          <img src="-" width="100%" alt="placeholder"/>
+        <a href="https://github.com/fl0wxr/img-sim">
+          <img src="img-sim.png" width="100%" alt="img-sim"/>
         </a>
         <br>
         <sub><strong>Contrastive Learning Trainer</strong>: SimCLR implementation with custom training loop, validation monitoring, checkpointing, and inference. Supports two backbones (LeNet‑style and ResNet) on CIFAR‑10. Achieved train/val loss of 0.0166/0.0184 with ResNet.</sub>
