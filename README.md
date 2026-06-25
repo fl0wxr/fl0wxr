@@ -13,24 +13,24 @@
     <tr>
       <td align="center" width="33%">
         <a href="https://github.com/fl0wxr/SmokeSegmenter">
-          <img src="smoke-segmenter-oracle-panel.png" width="100%" alt="SmokeSegmenter Demo"/>
+          <img src="smoke-segmenter-oracle-panel.png" width="100%" alt="smoke-segmenter"/>
         </a>
         <br>
-        <sub><strong>SmokeSegmenter</strong>: Semi-automated smoke segmentation GUI based on the Segment Anything Model of Meta</sub>
+        <sub><strong>SmokeSegmenter</strong>: Semi-automated smoke segmentation GUI based on the Segment Anything Model of Meta.</sub>
       </td>
       <td align="center" width="33%">
         <a href="https://youtu.be/LSx3SHB2Lt4?si=mMFd4puYkq57WwtM&t=130">
-          <img src="meddisc-solution.png" width="100%" alt="MedDiSC Demo"/>
+          <img src="meddisc-solution.png" width="100%" alt="meddisc-demo"/>
         </a>
         <br>
-        <sub><strong>MedDiSC</strong>: Browser-based DICOM de‑identification, Segmentation &amp; Curation Tool [1]; implemented for clinical use: de‑identifies and segments bulk DICOM images, exports NifTI masks</sub>
+        <sub><strong>MedDiSC</strong>: Browser-based DICOM de‑identification, Segmentation &amp; Curation Tool [1]; implemented for clinical use: de‑identifies and segments bulk DICOM images, exports NifTI masks.</sub>
       </td>
       <td align="center" width="33%">
         <a href="https://youtu.be/g4cxpcj2UFA?si=ZU24iMp_5C_fyEHS&t=54">
-          <img src="yolov3-wildfire-detector.png" width="100%" alt="YOLOv3 Demo"/>
+          <img src="yolov3-wildfire-detector.png" width="100%" alt="fccs"/>
         </a>
         <br>
-        <sub><strong>Startup Initiative</strong>: Fire detection system pre-trained on the ImageNet dataset and fine-tuned on 650 fire images; presented in two competitions and a fire department</sub>
+        <sub><strong>Startup Initiative</strong>: Fire detection system pre-trained on the ImageNet dataset and fine-tuned on 650 fire images; presented in two competitions and a fire department.</sub>
       </td>
     </tr>
   </table>
@@ -43,24 +43,24 @@
     <tr>
       <td align="center" width="33%">
         <a href="https://drive.google.com/file/d/1AVaMdupbLhaNpim_sLAkbQsNUr2tf3QD/view?usp=sharing">
-          <img src="msc-thesis.png" width="100%" alt="StratoCluster"/>
+          <img src="msc-thesis.png" width="100%" alt="msc-thesis"/>
         </a>
         <br>
-        <sub><strong>Computational Proteomics</strong>: Baseline analysis [2] of twelve thousand natural proteomes from UniProtKB; part of the StratoCluster research initiative; presented in HBioinfo17 (RECOMB 2026)</sub>
+        <sub><strong>Computational Proteomics</strong>: Baseline analysis [2] of twelve thousand natural proteomes from UniProtKB; part of the StratoCluster research initiative; presented in HBioinfo17 (RECOMB 2026).</sub>
       </td>
       <td align="center" width="33%">
         <a href="https://github.com/fl0wxr/DICOMImageDeIdentifier">
-          <img src="dicom-deidentifier-workflow.png" width="100%" alt="MedDiSC Demo"/>
+          <img src="dicom-deidentifier-workflow.png" width="100%" alt="dicom-deidentifier"/>
         </a>
         <br>
-        <sub><strong>DICOM De-identifier Utility</strong>: Workflow designed and implemented to de-identify over two million X-Ray DICOM images for INCISIVE (HORIZON 2020) [3]</sub>
+        <sub><strong>DICOM De-identifier Utility</strong>: Workflow designed and implemented to de-identify over two million X-Ray DICOM images for INCISIVE (HORIZON 2020) [3].</sub>
       </td>
       <td align="center" width="33%">
         <a href="https://hellanicus.lib.aegean.gr/items/aff2b3b4-2f7d-48c5-97d0-db3006a1fc74">
-          <img src="meng-thesis.png" width="100%" alt="M.Eng. Thesis"/>
+          <img src="meng-thesis.png" width="100%" alt="meng-thesis"/>
         </a>
         <br>
-        <sub><strong>M.Eng. Thesis</strong>: Transfer learning of Convolutional Neural Networks between image and text modalities</sub>
+        <sub><strong>M.Eng. Thesis</strong>: Transfer learning of Convolutional Neural Networks between image and text modalities.</sub>
       </td>
     </tr>
   </table>
@@ -71,24 +71,51 @@
     <tr>
       <td align="center" width="33%">
         <a href="https://doi.org/10.1145/3200947.3201014">
-          <img src="sio.png" width="100%" alt="Sonar Inspired Optimization"/>
+          <img src="sio.png" width="100%" alt="sio"/>
         </a>
         <br>
-        <sub><strong>Sonar Inspired Optimization (SIO)</strong>: A nature-inspired metaheuristic for automatic optimization of resource leveling in project management [4]</sub>
+        <sub><strong>Sonar Inspired Optimization (SIO)</strong>: A nature-inspired metaheuristic for automatic optimization of resource leveling in project management [4].</sub>
       </td>
       <td align="center" width="33%">
         <a href="https://github.com/fl0wxr/netfieldv1">
           <img src="conv2d.png" width="100%" alt="netfieldv1"/>
         </a>
         <br>
-        <sub><strong>netfieldv1</strong>: Derived, vectorized, and implemented backpropagation from scratch for any LeNet-like CNN architecture (NumPy/CuPy)</sub>
+        <sub><strong>CNN Platform</strong>: Derived, vectorized, and implemented backpropagation from scratch for any LeNet-like CNN architecture (NumPy/CuPy). This is a proof-of-concept project.</sub>
       </td>
       <td align="center" width="33%">
         <a href="https://drive.google.com/file/d/1bqj_7b9QpY5DEytd_MKlyMv_zKwQWQK0/view?usp=sharing">
-          <img src="maths.png" width="100%" alt="Coming Soon"/>
+          <img src="maths.png" width="100%" alt="axler-mira"/>
         </a>
         <br>
-        <sub><strong>Rigorous Mathematics</strong>: Proof of the Dominated Convergence Theorem for the Lebesgue integral, constructed in alignment with Axler's: Measure, Integration & Real Analysis (2022) book [5]</sub>
+        <sub><strong>Rigorous Mathematics</strong>: Proof of the Dominated Convergence Theorem for the Lebesgue integral, constructed in alignment with Axler's: Measure, Integration & Real Analysis (2022) book [5].</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <a href="https://github.com/Vasilispapg/CVML-ConvNN-MMVS">
+          <img src="vid-sum.png" width="100%" alt="vid-sum"/>
+        </a>
+        <br>
+        <sub><strong>Multi-modal Video Summarization</strong>: Proof-of-concept pipeline combining audio (MFCC) and visual (CNN) features; keyframe selection formulated as a Knapsack optimization problem; presented as a poster.</sub>
+      <td align="center" width="33%">
+        <a href="-">
+          <img src="-" width="100%" alt="placeholder"/>
+        </a>
+        <br>
+        <sub><strong>-</strong>: -</sub>
+      </td>
+      <td align="center" width="33%">
+        <a href="https://drive.google.com/file/d/1bqj_7b9QpY5DEytd_MKlyMv_zKwQWQK0/view?usp=sharing">
+          <img src="vid-sum.png" width="100%" alt="placeholder"/>
+        </a>
+        <br>
+        <sub><strong>-</strong>: -</sub>
       </td>
     </tr>
   </table>
