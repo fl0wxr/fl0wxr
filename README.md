@@ -184,11 +184,11 @@ Replies within ~1-2 Days.
 
 [1] A. Dimoulakis, E. Politis, M. Nikolaidis, P. Bizopoulos, and K. Votis. "MedDiSC: Medical De-identification, Segmentation & Curation Tool". Manuscript. SSRN. 2024-05-01. Available at: https://ssrn.com/abstract=4813479
 
-[2] A. Dimoulakis. "Computational Genomics — Analysis of a Scalable and Reproducible Clustering Workflow in Protein Sequence Similarity Networks". Master's Thesis. Aristotle University of Thessaloniki, Greece. 2026. Available at: https://drive.google.com/file/d/1AVaMdupbLhaNpim_sLAkbQsNUr2tf3QD/view?usp=sharing
+[2] A. Dimoulakis. "Computational Genomics -- Analysis of a Scalable and Reproducible Clustering Workflow in Protein Sequence Similarity Networks". Master's Thesis. Aristotle University of Thessaloniki, Greece. 2026. Available at: https://drive.google.com/file/d/1AVaMdupbLhaNpim_sLAkbQsNUr2tf3QD/view?usp=sharing
 
 [3] INCISIVE Project Consortium. "D6.7 Best Practices for DICOM De-identification". Project Deliverable. INCISIVE (HORIZON 2020). 2024-06-30. Available at: https://incisive-project.eu/wp-content/uploads/2024/06/INCISIVE_D6-7_Best-Practices_final.pdf
 
-[4] A. Tzanetos, C. Kyriklidis, A. Papamichail, A. Dimoulakis, and G. Dounias. "A Nature Inspired Metaheuristic for Optimal Leveling of Resources in Project Management". Conference Paper. Association for Computing Machinery (ACM), New York, United States. SETN '18: Proceedings of the 10th Hellenic Conference on Artificial Intelligence, 2018-07-09. doi:10.1145/3200947.3201014. Available at: https://doi.org/10.1145/3200947.3201014
+[4] A. Tzanetos, C. Kyriklidis, A. Papamichail, A. Dimoulakis, and G. Dounias. "A Nature Inspired Metaheuristic for Optimal Leveling of Resources in Project Management". Conference Paper. SETN '18: Proceedings of the 10th Hellenic Conference on Artificial Intelligence, 2018-07-09. doi:10.1145/3200947.3201014. Available at: https://doi.org/10.1145/3200947.3201014
 
 [5] A. Dimoulakis. "Complementary notes aligned with Axler's *Measure, Integration & Real Analysis* book, covering foundational topics in metric spaces, Lebesgue integration, and functional analysis". 2022-06. Available at: https://drive.google.com/drive/folders/1p6rbD9gTxQGJupflapUb5uy8YYFP4eRU?usp=sharing
 
