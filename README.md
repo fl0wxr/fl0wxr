@@ -50,10 +50,10 @@
       </td>
       <td align="center" width="33%">
         <a href="https://github.com/fl0wxr/DICOMImageDeIdentifier">
-          <img src="dicom-deidentifier-workflow.png" width="100%" alt="dicom-deidentifier"/>
+          <img src="dicom-deidentifier.png" width="100%" alt="dicom-deidentifier"/>
         </a>
         <br>
-        <sub><strong>DICOM De-identifier Utility</strong>: Workflow designed and implemented to de-identify over two million X-Ray DICOM images for INCISIVE (HORIZON 2020) [3].</sub>
+        <sub><strong>DICOM De-identifier Utility</strong>: Rotation invariant burned-in annotation removal designed and implemented to de-identify over two million X-Ray DICOM images for INCISIVE (HORIZON 2020) [3].</sub>
       </td>
       <td align="center" width="33%">
         <a href="https://hellanicus.lib.aegean.gr/items/aff2b3b4-2f7d-48c5-97d0-db3006a1fc74">
