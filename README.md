@@ -74,7 +74,7 @@
           <img src="sio.png" width="100%" alt="Sonar Inspired Optimization"/>
         </a>
         <br>
-        <sub><strong>Sonar Inspired Optimization (SIO)</strong>: A nature-inspired metaheuristic for optimal resource leveling in project management [4]</sub>
+        <sub><strong>Sonar Inspired Optimization (SIO)</strong>: A nature-inspired metaheuristic for automatic optimization of resource leveling in project management [4]</sub>
       </td>
       <td align="center" width="33%">
         <a href="https://github.com/fl0wxr/netfieldv1">
