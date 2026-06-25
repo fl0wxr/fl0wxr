@@ -70,18 +70,11 @@
   <table>
     <tr>
       <td align="center" width="33%">
-        <a href="https://doi.org/10.1145/3200947.3201014">
-          <img src="sio.png" width="100%" alt="sio"/>
+        <a href="https://github.com/Vasilispapg/CVML-ConvNN-MMVS">
+          <img src="vid-sum.png" width="100%" alt="vid-sum"/>
         </a>
         <br>
-        <sub><strong>Sonar Inspired Optimization (SIO)</strong>: A nature-inspired metaheuristic for automatic optimization of resource leveling in project management [4].</sub>
-      </td>
-      <td align="center" width="33%">
-        <a href="https://github.com/fl0wxr/netfieldv1">
-          <img src="conv2d.png" width="100%" alt="netfieldv1"/>
-        </a>
-        <br>
-        <sub><strong>CNN Platform</strong>: Derived, vectorized, and implemented backpropagation from scratch for any LeNet-like CNN architecture (NumPy/CuPy). This is a proof-of-concept project.</sub>
+        <sub><strong>Multi-modal Video Summarization</strong>: Proof-of-concept pipeline combining audio (MFCC) and visual (CNN) features; keyframe selection formulated as a Knapsack optimization problem; presented as a poster.</sub>
       </td>
       <td align="center" width="33%">
         <a href="https://github.com/fl0wxr/img-sim">
@@ -89,6 +82,13 @@
         </a>
         <br>
         <sub><strong>Contrastive Learning Trainer</strong>: SimCLR implementation with custom training loop, validation monitoring, checkpointing, and inference. Supports two backbones (LeNet‑style and ResNet) on CIFAR‑10. Achieved improved performance on ResNet compared to LeNet in double the training time.</sub>
+      </td>
+      <td align="center" width="33%">
+        <a href="https://github.com/fl0wxr/netfieldv1">
+          <img src="conv2d.png" width="100%" alt="netfieldv1"/>
+        </a>
+        <br>
+        <sub><strong>CNN Platform</strong>: Derived, vectorized, and implemented backpropagation from scratch for any LeNet-like CNN architecture (NumPy/CuPy). This is a proof-of-concept project.</sub>
       </td>
     </tr>
   </table>
@@ -98,11 +98,11 @@
   <table>
     <tr>
       <td align="center" width="33%">
-        <a href="https://github.com/Vasilispapg/CVML-ConvNN-MMVS">
-          <img src="vid-sum.png" width="100%" alt="vid-sum"/>
+        <a href="https://doi.org/10.1145/3200947.3201014">
+          <img src="sio.png" width="100%" alt="sio"/>
         </a>
         <br>
-        <sub><strong>Multi-modal Video Summarization</strong>: Proof-of-concept pipeline combining audio (MFCC) and visual (CNN) features; keyframe selection formulated as a Knapsack optimization problem; presented as a poster.</sub>
+        <sub><strong>Sonar Inspired Optimization (SIO)</strong>: A nature-inspired metaheuristic for automatic optimization of resource leveling in project management [4].</sub>
       </td>
       <td align="center" width="33%">
         <a href="https://drive.google.com/file/d/1bqj_7b9QpY5DEytd_MKlyMv_zKwQWQK0/view?usp=sharing">
