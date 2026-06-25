@@ -108,7 +108,7 @@
           <img src="img-sim.png" width="100%" alt="img-sim"/>
         </a>
         <br>
-        <sub><strong>Contrastive Learning Trainer</strong>: SimCLR implementation with custom training loop, validation monitoring, checkpointing, and inference. Supports two backbones (LeNet‑style and ResNet) on CIFAR‑10. Achieved train/val loss of 0.0166/0.0184 with ResNet.</sub>
+        <sub><strong>Contrastive Learning Trainer</strong>: SimCLR implementation with custom training loop, validation monitoring, checkpointing, and inference. Supports two backbones (LeNet‑style and ResNet) on CIFAR‑10. Achieved improved performance on ResNet compared to LeNet in double the training time.</sub>
       </td>
       <td align="center" width="33%">
         <a href="https://drive.google.com/file/d/1bqj_7b9QpY5DEytd_MKlyMv_zKwQWQK0/view?usp=sharing">
