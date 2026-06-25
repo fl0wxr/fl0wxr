@@ -84,11 +84,11 @@
         <sub><strong>CNN Platform</strong>: Derived, vectorized, and implemented backpropagation from scratch for any LeNet-like CNN architecture (NumPy/CuPy). This is a proof-of-concept project.</sub>
       </td>
       <td align="center" width="33%">
-        <a href="https://drive.google.com/file/d/1bqj_7b9QpY5DEytd_MKlyMv_zKwQWQK0/view?usp=sharing">
-          <img src="maths.png" width="100%" alt="axler-mira"/>
+        <a href="https://github.com/fl0wxr/img-sim">
+          <img src="img-sim.png" width="100%" alt="img-sim"/>
         </a>
         <br>
-        <sub><strong>Rigorous Mathematics</strong>: Proof of the Dominated Convergence Theorem for the Lebesgue integral, constructed in alignment with Axler's: Measure, Integration & Real Analysis (2022) book [5].</sub>
+        <sub><strong>Contrastive Learning Trainer</strong>: SimCLR implementation with custom training loop, validation monitoring, checkpointing, and inference. Supports two backbones (LeNet‑style and ResNet) on CIFAR‑10. Achieved improved performance on ResNet compared to LeNet in double the training time.</sub>
       </td>
     </tr>
   </table>
@@ -104,11 +104,11 @@
         <br>
         <sub><strong>Multi-modal Video Summarization</strong>: Proof-of-concept pipeline combining audio (MFCC) and visual (CNN) features; keyframe selection formulated as a Knapsack optimization problem; presented as a poster.</sub>
       <td align="center" width="33%">
-        <a href="https://github.com/fl0wxr/img-sim">
-          <img src="img-sim.png" width="100%" alt="img-sim"/>
+        <a href="https://drive.google.com/file/d/1bqj_7b9QpY5DEytd_MKlyMv_zKwQWQK0/view?usp=sharing">
+          <img src="maths.png" width="100%" alt="axler-mira"/>
         </a>
         <br>
-        <sub><strong>Contrastive Learning Trainer</strong>: SimCLR implementation with custom training loop, validation monitoring, checkpointing, and inference. Supports two backbones (LeNet‑style and ResNet) on CIFAR‑10. Achieved improved performance on ResNet compared to LeNet in double the training time.</sub>
+        <sub><strong>Rigorous Mathematics</strong>: Proof of the Dominated Convergence Theorem for the Lebesgue integral, constructed in alignment with Axler's: Measure, Integration & Real Analysis (2022) book [5].</sub>
       </td>
       <td align="center" width="33%">
         <a href="https://drive.google.com/file/d/1bqj_7b9QpY5DEytd_MKlyMv_zKwQWQK0/view?usp=sharing">
