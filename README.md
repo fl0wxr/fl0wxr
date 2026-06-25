@@ -1,8 +1,5 @@
 <p align="center">
-  <img src="seqwork-logo-coral-filled-expanded-right-transparent.png" width="130" alt="SEQWORK"/><br>
-  <strong>SeqWork</strong>
-  <br>
-  Image &amp; Sequence Processing R&D
+  <img src="seqwork-logo-coral-filled-expanded-right-transparent.png" width="130" alt="seqwork"/><br>
 </p>
 
 <p align="center">
