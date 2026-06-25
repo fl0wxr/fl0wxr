@@ -49,11 +49,11 @@
         <sub><strong>Computational Proteomics</strong>: Baseline analysis [2] of twelve thousand natural proteomes from UniProtKB; part of the StratoCluster research initiative; presented in HBioinfo17 (RECOMB 2026).</sub>
       </td>
       <td align="center" width="33%">
-        <a href="https://github.com/fl0wxr/DICOMImageDeIdentifier">
-          <img src="dicom-deidentifier.png" width="100%" alt="dicom-deidentifier"/>
+        <a href="https://github.com/fl0wxr/img-sim">
+          <img src="img-sim.png" width="100%" alt="img-sim"/>
         </a>
         <br>
-        <sub><strong>DICOM De-identifier Utility</strong>: Rotation invariant burned-in text removal designed and implemented to de-identify over two million X-Ray DICOM images for INCISIVE (HORIZON 2020) [3].</sub>
+        <sub><strong>Contrastive Learning Trainer</strong>: SimCLR implementation with custom training loop, validation monitoring, checkpointing, and inference. Supports two backbones (LeNet‑style and ResNet) on CIFAR‑10. Achieved improved performance on ResNet compared to LeNet in double the training time.</sub>
       </td>
       <td align="center" width="33%">
         <a href="https://hellanicus.lib.aegean.gr/items/aff2b3b4-2f7d-48c5-97d0-db3006a1fc74">
@@ -77,11 +77,11 @@
         <sub><strong>Multi-modal Video Summarization</strong>: Proof-of-concept pipeline combining audio (MFCC) and visual (CNN) features; keyframe selection formulated as a Knapsack optimization problem; presented as a poster.</sub>
       </td>
       <td align="center" width="33%">
-        <a href="https://github.com/fl0wxr/img-sim">
-          <img src="img-sim.png" width="100%" alt="img-sim"/>
+        <a href="https://github.com/fl0wxr/DICOMImageDeIdentifier">
+          <img src="dicom-deidentifier.png" width="100%" alt="dicom-deidentifier"/>
         </a>
         <br>
-        <sub><strong>Contrastive Learning Trainer</strong>: SimCLR implementation with custom training loop, validation monitoring, checkpointing, and inference. Supports two backbones (LeNet‑style and ResNet) on CIFAR‑10. Achieved improved performance on ResNet compared to LeNet in double the training time.</sub>
+        <sub><strong>DICOM De-identifier Utility</strong>: Rotation invariant burned-in text removal designed and implemented to de-identify over two million X-Ray DICOM images for INCISIVE (HORIZON 2020) [3].</sub>
       </td>
       <td align="center" width="33%">
         <a href="https://github.com/fl0wxr/netfieldv1">
