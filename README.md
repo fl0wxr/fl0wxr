@@ -118,6 +118,7 @@ Open to freelancing, consulting, and full‑time roles. I deliver value, not jus
 <a href="mailto:apo.dimu@gmail.com">
   <img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
 </a>
+
 Replies within ~1-2 Days.
 
 
