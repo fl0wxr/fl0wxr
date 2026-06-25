@@ -109,6 +109,7 @@ My research is comprehensive by default. I build things that work -- in bioinfor
 Open to freelancing, consulting, and full‑time roles. I deliver value, not just code. I embrace completeness, and I refuse to vibe code.
 
 **Contact Channels**:
+
 <a href="https://linkedin.com/in/fl0wxr">
   <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
@@ -120,7 +121,6 @@ Open to freelancing, consulting, and full‑time roles. I deliver value, not jus
 </a>
 
 Replies within ~1-2 Days.
-
 
 ## 🛠️ Technical Skills
 
