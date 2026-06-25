@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="seqwork-logo-coral-filled.svg" width="130" alt="SEQWORK"/><br>
+  <img src="seqwork-logo-coral-filled-expanded-right-transparent.png" width="130" alt="SEQWORK"/><br>
   <strong>SeqWork</strong>
   <br>
   Image &amp; Sequence Processing R&D
