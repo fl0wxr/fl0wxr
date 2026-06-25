@@ -159,7 +159,7 @@ Replies within ~1-2 Days.
 
 - **Computational Genomics & Proteomics**
 - Scalable Graph Clustering & High Performance Computing
-- Machine Learning & Deep Learning
+- Machine Learning & Mathematical Optimization
 
 ## 🎓 Education
 
