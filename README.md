@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="seqwork-logo-coral-filled-expanded-right-transparent.png" width="380" alt="seqwork"/><br>
+  <a href="https://linktr.ee/fl0wxr" target="_blank">
+    <img src="seqwork-logo-coral-filled-expanded-right-transparent.png" width="380" alt="seqwork"/>
+  </a>
 </p>
 
 ---
