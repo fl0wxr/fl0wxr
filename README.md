@@ -154,24 +154,11 @@ Replies within ~1-2 Days.
 
 **Fields**: Machine Learning, Deep Learning, Linear Algebra, Statistics, Convex Optimization, Mathematical Analysis, Genomics, Finance, Operations Research, Computer Vision, Sequence Processing
 
-## 🔬 Research Interests
+## 🤝 R&D Interests
 
 - **Computational Genomics & Proteomics**
 - Scalable Graph Clustering & High Performance Computing
 - Machine Learning & Deep Learning
-- Interpretability & Explainable AI
-- Optimization & Linear Algebra
-
-## 📂 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| [`SmokeSegmenter`](https://github.com/fl0wxr/SmokeSegmenter) | Automated smoke segmentation using SAM |
-| [`bioscflow`](https://github.com/fl0wxr/bioscflow) | Python pipeline for large-scale protein sequence clustering using MCL and HipMCL |
-| [`msc-thesis`](https://github.com/fl0wxr/msc-thesis) | LaTeX source for my MSc thesis on scalable protein clustering |
-| [`netfieldv1`](https://github.com/fl0wxr/netfieldv1) | Derived, vectorized, and implemented backpropagation from scratch for any LeNet-like CNN architecture (NumPy/CuPy) |
-| [`img-sim`](https://github.com/fl0wxr/img-sim) | SimCLR implementation for contrastive learning in CIFAR |
-| [`machine_translator`](https://github.com/fl0wxr/machine_translator) | Greek-English machine translation with RNNs (PyTorch) |
 
 ## 🎓 Education
 
