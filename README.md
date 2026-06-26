@@ -109,7 +109,7 @@
           <img src="maths.png" width="100%" alt="axler-mira"/>
         </a>
         <br>
-        <sub><strong>Rigorous Mathematics</strong>: Proof of the Dominated Convergence Theorem for the Lebesgue integral, constructed in alignment with Axler's: Measure, Integration & Real Analysis (2022) book [5]. The purpose of my notes are to fill all gaps in proofs and propositions in textbooks using rigorous mathematics.</sub>
+        <sub><strong>My long journey in rigorous mathematics</strong>: Proof of the Dominated Convergence Theorem for the Lebesgue integral, constructed in alignment with Axler's: Measure, Integration & Real Analysis (2022) book [5]. The purpose of my notes are to fill all gaps in proofs and propositions in textbooks using rigorous mathematics.</sub>
       </td>
       <td align="center" width="33%">
         <a href="https://hellanicus.lib.aegean.gr/items/aff2b3b4-2f7d-48c5-97d0-db3006a1fc74">
