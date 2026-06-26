@@ -116,7 +116,7 @@
           <img src="greek-translator.png" width="100%" alt="machine_translator"/>
         </a>
         <br>
-        <sub><strong>Greek Translator</strong>: -</sub>
+        <sub><strong>Greek Translator</strong>: PyTorch seq2seq RNN (GRU layers) for Greek–English translation; custom BLEU, teacher forcing, C-accelerated preprocessing (287x); trained on 17k sentences.</sub>
       </td>
     </tr>
   </table>
