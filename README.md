@@ -98,11 +98,11 @@
   <table>
     <tr>
       <td align="center" width="33%">
-        <a href="https://doi.org/10.1145/3200947.3201014">
-          <img src="sio.png" width="100%" alt="sio"/>
+        <a href="https://github.com/fl0wxr/jade-maze-solver">
+          <img src="jade-maze-solver.gif" width="100%" alt="maze-solver"/>
         </a>
         <br>
-        <sub><strong>Sonar Inspired Optimization (SIO)</strong>: A nature-inspired metaheuristic for automatic optimization of resource leveling in project management [4].</sub>
+        <sub><strong>Jade Maze Solver</strong>: JADE-based (Java) agent-oriented system for maze solving. Environment Agent (ENA) generates perfect mazes and spawns a Path Finder Agent (PFA) that navigates from entry to exit using various pathfinding algorithms.</sub>
       </td>
       <td align="center" width="33%">
         <a href="https://drive.google.com/file/d/1bqj_7b9QpY5DEytd_MKlyMv_zKwQWQK0/view?usp=sharing">
