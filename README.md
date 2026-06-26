@@ -56,11 +56,11 @@
         <sub><strong>Contrastive Learning Trainer</strong>: SimCLR implementation with custom training loop, validation monitoring, checkpointing, and inference. Supports two backbones (LeNet‑style and ResNet) on CIFAR‑10. Achieved improved performance on ResNet compared to LeNet in double the training time.</sub>
       </td>
       <td align="center" width="33%">
-        <a href="https://hellanicus.lib.aegean.gr/items/aff2b3b4-2f7d-48c5-97d0-db3006a1fc74">
-          <img src="meng-thesis.png" width="100%" alt="meng-thesis"/>
+        <a href="https://github.com/fl0wxr/machine_translator">
+          <img src="greek-translator.png" width="100%" alt="machine_translator"/>
         </a>
         <br>
-        <sub><strong>M.Eng. Thesis</strong>: Transfer learning of Convolutional Neural Networks between image and text modalities.</sub>
+        <sub><strong>Greek Translator</strong>: PyTorch seq2seq language model for Greek–English translation; made up of GRU layers; custom BLEU, trained with teacher forcing scheme; C-accelerated preprocessing (287x); trained on 17k sentences.</sub>
       </td>
     </tr>
   </table>
@@ -112,11 +112,11 @@
         <sub><strong>Rigorous Mathematics</strong>: Proof of the Dominated Convergence Theorem for the Lebesgue integral, constructed in alignment with Axler's: Measure, Integration & Real Analysis (2022) book [5].</sub>
       </td>
       <td align="center" width="33%">
-        <a href="https://github.com/fl0wxr/machine_translator">
-          <img src="greek-translator.png" width="100%" alt="machine_translator"/>
+        <a href="https://hellanicus.lib.aegean.gr/items/aff2b3b4-2f7d-48c5-97d0-db3006a1fc74">
+          <img src="meng-thesis.png" width="100%" alt="meng-thesis"/>
         </a>
         <br>
-        <sub><strong>Greek Translator</strong>: PyTorch seq2seq language model for Greek–English translation; made up of GRU layers; custom BLEU, trained with teacher forcing scheme; C-accelerated preprocessing (287x); trained on 17k sentences.</sub>
+        <sub><strong>M.Eng. Thesis</strong>: Transfer learning of Convolutional Neural Networks between image and text modalities.</sub>
       </td>
     </tr>
   </table>
