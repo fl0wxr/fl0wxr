@@ -88,7 +88,7 @@
           <img src="conv2d.png" width="100%" alt="netfieldv1"/>
         </a>
         <br>
-        <sub><strong>CNN Platform</strong>: Derived, vectorized, and implemented backpropagation from scratch for any LeNet-like CNN architecture (NumPy/CuPy). This is a proof-of-concept project.</sub>
+        <sub><strong>CNN Platform</strong>: Derived, vectorized, and implemented backpropagation from scratch for any LeNet-like CNN architecture (NumPy/CuPy). This is a proof-of-concept project. My first interaction with the field of Deep Learning.</sub>
       </td>
     </tr>
   </table>
