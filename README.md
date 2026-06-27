@@ -123,7 +123,7 @@
 </div>
 
 <p align="center">
-  <span style="font-size:14px; color:#888;">-- built by --</span>
+  <span style="font-size:14px; color:#888;">-- provided by --</span>
 </p>
 
 <h1 align="center">👋 Greetings, I am Apostolos M. Dimoulakis</h1>
