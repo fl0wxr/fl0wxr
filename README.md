@@ -102,7 +102,7 @@
           <img src="jade-maze-solver.gif" width="100%" alt="maze-solver"/>
         </a>
         <br>
-        <sub><strong>Jade Maze Solver</strong>: JADE-based (Java) agent-oriented system for maze solving.</sub>
+        <sub><strong>Jade Maze Solver</strong>: JADE-based (Java) agent-oriented system for maze solving; after generating the maze via recursive backtracking.</sub>
       </td>
       <td align="center" width="33%">
         <a href="https://drive.google.com/file/d/1bqj_7b9QpY5DEytd_MKlyMv_zKwQWQK0/view?usp=sharing">
