@@ -81,7 +81,7 @@
           <img src="dicom-deidentifier.png" width="100%" alt="dicom-deidentifier"/>
         </a>
         <br>
-        <sub><strong>DICOM De-identifier Utility</strong>: Rotation invariant burned-in text removal designed and implemented to de-identify over two million X-Ray DICOM images for INCISIVE (HORIZON 2020) [3].</sub>
+        <sub><strong>DICOM De-identifier Utility</strong>: Streamlined a rotation invariant burned-in text removal workflow designed and implemented to de-identify over two million X-Ray DICOM images for INCISIVE (HORIZON 2020) [3].</sub>
       </td>
       <td valign="top" align="center" width="33%">
         <a href="https://github.com/fl0wxr/netfieldv1">
