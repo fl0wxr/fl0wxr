@@ -16,7 +16,7 @@
           <img src="smoke-segmenter-oracle-panel.png" width="100%" alt="smoke-segmenter"/>
         </a>
         <br>
-        <sub><strong>Semi-automatic Smoke Segmentation Utility</strong>: Initially, SAM transforms bounding boxes to segmentation masks in bulk, then the human conveniently approves/denies the masks one-by-one through the GUI displayed in the figure.</sub>
+        <sub><strong>Semi-automatic Smoke Segmentation Utility</strong>: Initially, a foundation CV model (SAM) transforms the bounding boxes of an existing labelled dataset to segmentation masks in bulk, then the human may approve/denie the masks one-by-one, with convenience through my implemented GUI.</sub>
       </td>
       <td valign="top" align="center" width="33%">
         <a href="https://youtu.be/LSx3SHB2Lt4?si=mMFd4puYkq57WwtM&t=130">
