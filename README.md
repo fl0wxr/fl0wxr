@@ -46,7 +46,7 @@
           <img src="msc-thesis.png" width="100%" alt="msc-thesis"/>
         </a>
         <br>
-        <sub><strong>Computational Proteomics</strong>: Baseline analysis [2] of twelve thousand natural proteomes from UniProtKB; part of the StratoCluster research initiative; presented in HBioinfo17 (RECOMB 2026).</sub>
+        <sub><strong>Computational Proteomics</strong>: Baseline analysis [2] of twelve thousand natural proteomes from UniProtKB; presented in HBioinfo17 (RECOMB 2026). Each of the three visualized columns display a structure aligned set of three proteins sampled from the same cluster.</sub>
       </td>
       <td valign="top" align="center" width="33%">
         <a href="https://github.com/fl0wxr/img-sim">
