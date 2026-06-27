@@ -11,21 +11,21 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="33%">
+      <td valign="top" align="center" width="33%">
         <a href="https://github.com/fl0wxr/SmokeSegmenter">
           <img src="smoke-segmenter-oracle-panel.png" width="100%" alt="smoke-segmenter"/>
         </a>
         <br>
         <sub><strong>SmokeSegmenter</strong>: Semi-automated smoke segmentation GUI based on the Segment Anything Model (SAM) of Meta. SAM transforms bounding boxes to segmentation masks in bulk, and the user then simply approves or denies the transformations image-per-image.</sub>
       </td>
-      <td align="center" width="33%">
+      <td valign="top" align="center" width="33%">
         <a href="https://youtu.be/LSx3SHB2Lt4?si=mMFd4puYkq57WwtM&t=130">
           <img src="meddisc-solution.png" width="100%" alt="meddisc-demo"/>
         </a>
         <br>
         <sub><strong>MedDiSC</strong>: Browser-based DICOM de‑identification, Segmentation &amp; Curation Tool [1]; implemented for clinical use: de‑identifies and segments bulk DICOM images, exports NifTI masks.</sub>
       </td>
-      <td align="center" width="33%">
+      <td valign="top" align="center" width="33%">
         <a href="https://youtu.be/g4cxpcj2UFA?si=ZU24iMp_5C_fyEHS&t=54">
           <img src="yolov3-wildfire-detector.png" width="100%" alt="fccs"/>
         </a>
@@ -41,21 +41,21 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="33%">
+      <td valign="top" align="center" width="33%">
         <a href="https://drive.google.com/file/d/1AVaMdupbLhaNpim_sLAkbQsNUr2tf3QD/view?usp=sharing">
           <img src="msc-thesis.png" width="100%" alt="msc-thesis"/>
         </a>
         <br>
         <sub><strong>Computational Proteomics</strong>: Baseline analysis [2] of twelve thousand natural proteomes from UniProtKB; part of the StratoCluster research initiative; presented in HBioinfo17 (RECOMB 2026).</sub>
       </td>
-      <td align="center" width="33%">
+      <td valign="top" align="center" width="33%">
         <a href="https://github.com/fl0wxr/img-sim">
           <img src="img-sim.png" width="100%" alt="img-sim"/>
         </a>
         <br>
         <sub><strong>Contrastive Learning Trainer</strong>: SimCLR implementation with custom training loop, validation monitoring, checkpointing, and inference. Supports two backbones (LeNet‑style and ResNet) on CIFAR‑10. Achieved improved performance on ResNet compared to LeNet in double the training time.</sub>
       </td>
-      <td align="center" width="33%">
+      <td valign="top" align="center" width="33%">
         <a href="https://github.com/fl0wxr/machine_translator">
           <img src="greek-translator.png" width="100%" alt="machine_translator"/>
         </a>
@@ -69,21 +69,21 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="33%">
+      <td valign="top" align="center" width="33%">
         <a href="https://github.com/Vasilispapg/CVML-ConvNN-MMVS">
           <img src="vid-sum.png" width="100%" alt="vid-sum"/>
         </a>
         <br>
         <sub><strong>Multi-modal Video Summarization</strong>: Proof-of-concept pipeline combining audio (MFCC) and visual (CNN) features; keyframe selection formulated as a Knapsack optimization problem; presented as a poster.</sub>
       </td>
-      <td align="center" width="33%">
+      <td valign="top" align="center" width="33%">
         <a href="https://github.com/fl0wxr/DICOMImageDeIdentifier">
           <img src="dicom-deidentifier.png" width="100%" alt="dicom-deidentifier"/>
         </a>
         <br>
         <sub><strong>DICOM De-identifier Utility</strong>: Rotation invariant burned-in text removal designed and implemented to de-identify over two million X-Ray DICOM images for INCISIVE (HORIZON 2020) [3].</sub>
       </td>
-      <td align="center" width="33%">
+      <td valign="top" align="center" width="33%">
         <a href="https://github.com/fl0wxr/netfieldv1">
           <img src="conv2d.png" width="100%" alt="netfieldv1"/>
         </a>
@@ -97,21 +97,21 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="33%">
+      <td valign="top" align="center" width="33%">
         <a href="https://github.com/fl0wxr/jade-maze-solver">
           <img src="jade-maze-solver.gif" width="100%" alt="maze-solver"/>
         </a>
         <br>
         <sub><strong>Jade Maze Solver</strong>: JADE-based (Java) agent-oriented system for maze solving; after generating the maze via recursive backtracking.</sub>
       </td>
-      <td align="center" width="33%">
+      <td valign="top" align="center" width="33%">
         <a href="https://drive.google.com/file/d/1bqj_7b9QpY5DEytd_MKlyMv_zKwQWQK0/view?usp=sharing">
           <img src="maths.png" width="100%" alt="axler-mira"/>
         </a>
         <br>
         <sub><strong>Rigorous Mathematics</strong>: The Dominated Convergence Theorem for the Lebesgue integral (click on the image to view my proof), constructed in alignment with Axler's: Measure, Integration & Real Analysis (2022) book [5]. The purpose of my notes are to fill all gaps in mathematical textbooks. Most of my experience is in the fields of Mathematical Analysis, Linear Algebra, Measure Theory.</sub>
       </td>
-      <td align="center" width="33%">
+      <td valign="top" align="center" width="33%">
         <a href="https://hellanicus.lib.aegean.gr/items/aff2b3b4-2f7d-48c5-97d0-db3006a1fc74">
           <img src="meng-thesis.png" width="100%" alt="meng-thesis"/>
         </a>
