@@ -116,7 +116,7 @@
           <img src="meng-thesis.png" width="100%" alt="meng-thesis"/>
         </a>
         <br>
-        <sub><strong>M.Eng. Thesis</strong>: Transfer learning of Convolutional Neural Networks between image and text modalities.</sub>
+        <sub><strong>M.Eng. Thesis</strong>: Transfer learning of LeNet-like Convolutional Neural Networks between image and text modalities through TensorFlow.</sub>
       </td>
     </tr>
   </table>
