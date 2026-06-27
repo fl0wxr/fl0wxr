@@ -36,6 +36,34 @@
   </table>
 </div>
 
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top" align="center" width="33%">
+        <a href="https://github.com/fl0wxr/jade-maze-solver">
+          <img src="jade-maze-solver.gif" width="100%" alt="maze-solver"/>
+        </a>
+        <br>
+        <sub><strong>Jade Maze Solver</strong>: JADE-based (Java) agent-oriented system for maze solving; after generating the maze via recursive backtracking.</sub>
+      </td>
+      <td valign="top" align="center" width="33%">
+        <a href="https://github.com/fl0wxr/DICOMImageDeIdentifier">
+          <img src="dicom-deidentifier.png" width="100%" alt="dicom-deidentifier"/>
+        </a>
+        <br>
+        <sub><strong>DICOM De-identifier Utility</strong>: Streamlined a rotation invariant burned-in text removal workflow designed and implemented to de-identify over two million X-Ray DICOM images for INCISIVE (HORIZON 2020) [3].</sub>
+      </td>
+      <td valign="top" align="center" width="33%">
+        <a href="https://github.com/fl0wxr/machine_translator">
+          <img src="greek-translator.png" width="100%" alt="machine_translator"/>
+        </a>
+        <br>
+        <sub><strong>Greek Translator</strong>: PyTorch seq2seq language model for Greek–English translation; made up of GRU layers; custom BLEU, trained with teacher forcing scheme; C-accelerated preprocessing (287x); trained on my custom 17k sentences dataset.</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
 > `> RESEARCH`
 
 <div align="center">
@@ -56,11 +84,11 @@
         <sub><strong>Contrastive Learning Trainer & UI</strong>: SimCLR implementation with custom training loop, validation monitoring, checkpointing, and inference. Supports two backbones (LeNet‑style and ResNet) on CIFAR‑10. Achieved improved performance on ResNet compared to LeNet in double the training time.</sub>
       </td>
       <td valign="top" align="center" width="33%">
-        <a href="https://github.com/fl0wxr/machine_translator">
-          <img src="greek-translator.png" width="100%" alt="machine_translator"/>
+        <a href="https://hellanicus.lib.aegean.gr/items/aff2b3b4-2f7d-48c5-97d0-db3006a1fc74">
+          <img src="meng-thesis.png" width="100%" alt="meng-thesis"/>
         </a>
         <br>
-        <sub><strong>Greek Translator</strong>: PyTorch seq2seq language model for Greek–English translation; made up of GRU layers; custom BLEU, trained with teacher forcing scheme; C-accelerated preprocessing (287x); trained on my custom 17k sentences dataset.</sub>
+        <sub><strong>M.Eng. Thesis</strong>: Transfer learning of LeNet-like Convolutional Neural Networks between image and text modalities through TensorFlow, Keras, NumPy.</sub>
       </td>
     </tr>
   </table>
@@ -77,11 +105,11 @@
         <sub><strong>Multi-modal Video Summarization</strong>: Proof-of-concept pipeline combining audio (MFCC) and visual (CNN) features; keyframe selection formulated as a Knapsack optimization problem; presented as a poster.</sub>
       </td>
       <td valign="top" align="center" width="33%">
-        <a href="https://github.com/fl0wxr/DICOMImageDeIdentifier">
-          <img src="dicom-deidentifier.png" width="100%" alt="dicom-deidentifier"/>
+        <a href="https://drive.google.com/file/d/1SJsKJWXQa-w-zUuzjFBiInODYKBM7dEu/view?usp=sharing">
+          <img src="maths.png" width="100%" alt="axler-mira"/>
         </a>
         <br>
-        <sub><strong>DICOM De-identifier Utility</strong>: Streamlined a rotation invariant burned-in text removal workflow designed and implemented to de-identify over two million X-Ray DICOM images for INCISIVE (HORIZON 2020) [3].</sub>
+        <sub><strong>Rigorous Mathematics</strong>: The Dominated Convergence Theorem for the Lebesgue integral, constructed in alignment with Axler's: Measure, Integration & Real Analysis (2022) book [5]. Click on the image to view my proof. The purpose of these notes are to fill all gaps in mathematical textbooks.</sub>
       </td>
       <td valign="top" align="center" width="33%">
         <a href="https://github.com/fl0wxr/netfieldv1">
@@ -94,33 +122,11 @@
   </table>
 </div>
 
-<div align="center">
-  <table>
-    <tr>
-      <td valign="top" align="center" width="33%">
-        <a href="https://github.com/fl0wxr/jade-maze-solver">
-          <img src="jade-maze-solver.gif" width="100%" alt="maze-solver"/>
-        </a>
-        <br>
-        <sub><strong>Jade Maze Solver</strong>: JADE-based (Java) agent-oriented system for maze solving; after generating the maze via recursive backtracking.</sub>
-      </td>
-      <td valign="top" align="center" width="33%">
-        <a href="https://drive.google.com/file/d/1SJsKJWXQa-w-zUuzjFBiInODYKBM7dEu/view?usp=sharing">
-          <img src="maths.png" width="100%" alt="axler-mira"/>
-        </a>
-        <br>
-        <sub><strong>Rigorous Mathematics</strong>: The Dominated Convergence Theorem for the Lebesgue integral, constructed in alignment with Axler's: Measure, Integration & Real Analysis (2022) book [5]. Click on the image to view my proof. The purpose of these notes are to fill all gaps in mathematical textbooks.</sub>
-      </td>
-      <td valign="top" align="center" width="33%">
-        <a href="https://hellanicus.lib.aegean.gr/items/aff2b3b4-2f7d-48c5-97d0-db3006a1fc74">
-          <img src="meng-thesis.png" width="100%" alt="meng-thesis"/>
-        </a>
-        <br>
-        <sub><strong>M.Eng. Thesis</strong>: Transfer learning of LeNet-like Convolutional Neural Networks between image and text modalities through TensorFlow, Keras, NumPy.</sub>
-      </td>
-    </tr>
-  </table>
-</div>
+
+
+
+
+
 
 <p align="center">
   <span style="font-size:14px; color:#888;">-- provided by --</span>
