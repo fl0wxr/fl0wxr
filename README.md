@@ -16,7 +16,7 @@
           <img src="smoke-segmenter-oracle-panel.png" width="100%" alt="smoke-segmenter"/>
         </a>
         <br>
-        <sub><strong>SmokeSegmenter</strong>: Initially, SAM transforms bounding boxes to segmentation masks in bulk, then the human conveniently approves/denies the masks one-by-one through the GUI displayed in the figure.</sub>
+        <sub><strong>Semi-automatic Smoke Segmenter Utility</strong>: Initially, SAM transforms bounding boxes to segmentation masks in bulk, then the human conveniently approves/denies the masks one-by-one through the GUI displayed in the figure.</sub>
       </td>
       <td valign="top" align="center" width="33%">
         <a href="https://youtu.be/LSx3SHB2Lt4?si=mMFd4puYkq57WwtM&t=130">
