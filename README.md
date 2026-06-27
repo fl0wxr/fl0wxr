@@ -105,7 +105,7 @@
         <sub><strong>Jade Maze Solver</strong>: JADE-based (Java) agent-oriented system for maze solving; after generating the maze via recursive backtracking.</sub>
       </td>
       <td valign="top" align="center" width="33%">
-        <a href="https://drive.google.com/file/d/1bqj_7b9QpY5DEytd_MKlyMv_zKwQWQK0/view?usp=sharing">
+        <a href="https://drive.google.com/file/d/1SJsKJWXQa-w-zUuzjFBiInODYKBM7dEu/view?usp=sharing">
           <img src="maths.png" width="100%" alt="axler-mira"/>
         </a>
         <br>
