@@ -16,7 +16,7 @@
           <img src="smoke-segmenter-oracle-panel.png" width="100%" alt="smoke-segmenter"/>
         </a>
         <br>
-        <sub><strong>SmokeSegmenter</strong>: Semi-automated smoke segmentation GUI based on the Segment Anything Model (SAM) of Meta. SAM transforms bounding boxes to segmentation masks in bulk, and then the oracle (i.e., human) simply approves or denies the transformations image-by-image, eliminating oracle overhead.</sub>
+        <sub><strong>SmokeSegmenter</strong>: Semi-automated smoke segmentation GUI based on the Segment Anything Model (SAM) of Meta. SAM transforms bounding boxes to segmentation masks in bulk, then the human user simply approves/denies the masks one-by-one -- thus eliminating a significant overhead from the workflow of generating high quality segmentation masks.</sub>
       </td>
       <td valign="top" align="center" width="33%">
         <a href="https://youtu.be/LSx3SHB2Lt4?si=mMFd4puYkq57WwtM&t=130">
