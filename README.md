@@ -53,14 +53,14 @@
           <img src="img-sim.png" width="100%" alt="img-sim"/>
         </a>
         <br>
-        <sub><strong>Contrastive Learning Trainer</strong>: SimCLR implementation with custom training loop, validation monitoring, checkpointing, and inference. Supports two backbones (LeNet‑style and ResNet) on CIFAR‑10. Achieved improved performance on ResNet compared to LeNet in double the training time.</sub>
+        <sub><strong>Contrastive Learning Trainer & UI</strong>: SimCLR implementation with custom training loop, validation monitoring, checkpointing, and inference. Supports two backbones (LeNet‑style and ResNet) on CIFAR‑10. Achieved improved performance on ResNet compared to LeNet in double the training time.</sub>
       </td>
       <td valign="top" align="center" width="33%">
         <a href="https://github.com/fl0wxr/machine_translator">
           <img src="greek-translator.png" width="100%" alt="machine_translator"/>
         </a>
         <br>
-        <sub><strong>Greek Translator</strong>: PyTorch seq2seq language model for Greek–English translation; made up of GRU layers; custom BLEU, trained with teacher forcing scheme; C-accelerated preprocessing (287x); trained on 17k sentences.</sub>
+        <sub><strong>Greek Translator</strong>: PyTorch seq2seq language model for Greek–English translation; made up of GRU layers; custom BLEU, trained with teacher forcing scheme; C-accelerated preprocessing (287x); trained on my custom 17k sentences dataset.</sub>
       </td>
     </tr>
   </table>
@@ -116,7 +116,7 @@
           <img src="meng-thesis.png" width="100%" alt="meng-thesis"/>
         </a>
         <br>
-        <sub><strong>M.Eng. Thesis</strong>: Transfer learning of LeNet-like Convolutional Neural Networks between image and text modalities through TensorFlow.</sub>
+        <sub><strong>M.Eng. Thesis</strong>: Transfer learning of LeNet-like Convolutional Neural Networks between image and text modalities through TensorFlow, Keras, NumPy.</sub>
       </td>
     </tr>
   </table>
