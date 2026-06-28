@@ -23,7 +23,7 @@
           <img src="meddisc-solution.png" width="100%" alt="meddisc-demo"/>
         </a>
         <br>
-        <sub><strong>MedDiSC</strong>: Browser-based DICOM de‑identification, Segmentation &amp; Curation Tool [1]; implemented for clinical use: de‑identifies and segments bulk DICOM images, exports NifTI masks.</sub>
+        <sub><strong>MedDiSC</strong>: Browser-based DICOM de‑identification &amp; Segmentation Tool [1]; implemented for clinical use: de‑identifies and segments bulk DICOM images, curates mask set exported in a single NifTI encoding.</sub>
       </td>
       <td valign="top" align="center" width="33%">
         <a href="https://youtu.be/g4cxpcj2UFA?si=ZU24iMp_5C_fyEHS&t=54">
