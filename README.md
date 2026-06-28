@@ -183,11 +183,11 @@ Replies within ~1-2 Days.
 
 **Fields**: Machine Learning, Deep Learning, Linear Algebra, Statistics, Convex Optimization, Mathematical Analysis, Genomics, Finance, Operations Research, Computer Vision, Sequence Processing
 
-## 🤝 R&D Interests
+## 🤝 R&D Interests (by field)
 
 - **Computational Genomics & Proteomics**
 - Scalable Graph Clustering & High Performance Computing
-- Machine Learning & Mathematical Optimization
+- Machine Learning & Mathematical Modeling and Optimization
 
 ## 🎓 Education
 
