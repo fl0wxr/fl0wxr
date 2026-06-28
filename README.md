@@ -77,11 +77,11 @@
         <sub><strong>Computational Proteomics</strong>: Baseline analysis [2] of twelve thousand natural proteomes from UniProtKB; presented in HBioinfo17 (RECOMB 2026). Each of the three visualized columns display a structure aligned set of three proteins sampled from the same cluster.</sub>
       </td>
       <td valign="top" align="center" width="33%">
-        <a href="https://github.com/fl0wxr/img-sim">
-          <img src="img-sim.png" width="100%" alt="img-sim"/>
+        <a href="https://drive.google.com/file/d/1SJsKJWXQa-w-zUuzjFBiInODYKBM7dEu/view?usp=sharing">
+          <img src="maths.png" width="100%" alt="axler-mira"/>
         </a>
         <br>
-        <sub><strong>Contrastive Learning Trainer & UI</strong>: SimCLR implementation with custom training loop, validation monitoring, checkpointing, and inference. Supports two backbones (LeNet‑style and ResNet) on CIFAR‑10. Achieved improved performance on ResNet compared to LeNet in double the training time.</sub>
+        <sub><strong>Rigorous Mathematics</strong>: The figure shows the Dominated Convergence Theorem for the Lebesgue integral; constructed in alignment with Axler's: Measure, Integration & Real Analysis (2022) book [4]. Click on the figure to view my proof. The purpose of notes such as this are to rigorously fill all the gaps I encounter in mathematical textbooks.</sub>
       </td>
       <td valign="top" align="center" width="33%">
         <a href="https://hellanicus.lib.aegean.gr/items/aff2b3b4-2f7d-48c5-97d0-db3006a1fc74">
@@ -105,11 +105,11 @@
         <sub><strong>CNN Platform</strong>: Derived, vectorized, and implemented backpropagation from scratch for any LeNet-like CNN architecture (NumPy/CuPy). This is a proof-of-concept project. The subfigure above shows my model of a convolutional layer; below the way through a rank 3 tensor is indexed.</sub>
       </td>
       <td valign="top" align="center" width="33%">
-        <a href="https://drive.google.com/file/d/1SJsKJWXQa-w-zUuzjFBiInODYKBM7dEu/view?usp=sharing">
-          <img src="maths.png" width="100%" alt="axler-mira"/>
+        <a href="https://github.com/fl0wxr/img-sim">
+          <img src="img-sim.png" width="100%" alt="img-sim"/>
         </a>
         <br>
-        <sub><strong>Rigorous Mathematics</strong>: The figure shows the Dominated Convergence Theorem for the Lebesgue integral; constructed in alignment with Axler's: Measure, Integration & Real Analysis (2022) book [4]. Click on the figure to view my proof. The purpose of notes such as this are to rigorously fill all the gaps I encounter in mathematical textbooks.</sub>
+        <sub><strong>Contrastive Learning Trainer & UI</strong>: SimCLR implementation with custom training loop, validation monitoring, checkpointing, and inference. Supports two backbones (LeNet‑style and ResNet) on CIFAR‑10. Achieved improved performance on ResNet compared to LeNet in double the training time.</sub>
       </td>
       <td valign="top" align="center" width="33%">
         <a href="https://github.com/Vasilispapg/CVML-ConvNN-MMVS">
