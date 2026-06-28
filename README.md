@@ -116,7 +116,7 @@
           <img src="netfieldv1.png" width="100%" alt="netfieldv1"/>
         </a>
         <br>
-        <sub><strong>CNN Platform</strong>: Derived, vectorized, and implemented backpropagation from scratch for any LeNet-like CNN architecture (NumPy/CuPy). This is a proof-of-concept project. The depinction shows a convolutional layer and my carefully established notation.</sub>
+        <sub><strong>CNN Platform</strong>: Derived, vectorized, and implemented backpropagation from scratch for any LeNet-like CNN architecture (NumPy/CuPy). This is a proof-of-concept project. The subfigure above shows my model of a convolutional layer; below the way through a rank 3 tensor is indexed.</sub>
       </td>
     </tr>
   </table>
