@@ -109,7 +109,7 @@
           <img src="maths.png" width="100%" alt="axler-mira"/>
         </a>
         <br>
-        <sub><strong>Rigorous Mathematics</strong>: The Dominated Convergence Theorem for the Lebesgue integral, constructed in alignment with Axler's: Measure, Integration & Real Analysis (2022) book [4]. Click on the image to view my proof. The purpose of these notes are to fill all gaps in mathematical textbooks.</sub>
+        <sub><strong>Rigorous Mathematics</strong>: The figure shows the Dominated Convergence Theorem for the Lebesgue integral; constructed in alignment with Axler's: Measure, Integration & Real Analysis (2022) book [4]. Click on the figure to view my proof. The purpose of notes such as this are to fill all gaps I encounter in mathematical textbooks using rigour.</sub>
       </td>
       <td valign="top" align="center" width="33%">
         <a href="https://github.com/Vasilispapg/CVML-ConvNN-MMVS">
