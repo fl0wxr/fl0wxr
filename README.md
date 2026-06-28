@@ -105,18 +105,18 @@
         <sub><strong>CNN Platform</strong>: Derived, vectorized, and implemented backpropagation from scratch for any LeNet-like CNN architecture (NumPy/CuPy). This is a proof-of-concept project. The subfigure above shows my model of a convolutional layer; below the way through a rank 3 tensor is indexed.</sub>
       </td>
       <td valign="top" align="center" width="33%">
-        <a href="https://github.com/Vasilispapg/CVML-ConvNN-MMVS">
-          <img src="vid-sum.png" width="100%" alt="vid-sum"/>
-        </a>
-        <br>
-        <sub><strong>Multi-modal Video Summarization</strong>: Proof-of-concept pipeline combining audio (MFCC) and visual (CNN) features; keyframe selection formulated as a Knapsack optimization problem; presented as a poster.</sub>
-      </td>
-      <td valign="top" align="center" width="33%">
         <a href="https://drive.google.com/file/d/1SJsKJWXQa-w-zUuzjFBiInODYKBM7dEu/view?usp=sharing">
           <img src="maths.png" width="100%" alt="axler-mira"/>
         </a>
         <br>
         <sub><strong>Rigorous Mathematics</strong>: The Dominated Convergence Theorem for the Lebesgue integral, constructed in alignment with Axler's: Measure, Integration & Real Analysis (2022) book [5]. Click on the image to view my proof. The purpose of these notes are to fill all gaps in mathematical textbooks.</sub>
+      </td>
+      <td valign="top" align="center" width="33%">
+        <a href="https://github.com/Vasilispapg/CVML-ConvNN-MMVS">
+          <img src="vid-sum.png" width="100%" alt="vid-sum"/>
+        </a>
+        <br>
+        <sub><strong>Multi-modal Video Summarization</strong>: Proof-of-concept pipeline combining audio (MFCC) and visual (CNN) features; keyframe selection formulated as a Knapsack optimization problem; presented as a poster.</sub>
       </td>
     </tr>
   </table>
