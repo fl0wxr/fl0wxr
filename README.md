@@ -27,7 +27,7 @@
       </td>
       <td valign="top" align="center" width="33%">
         <a href="https://youtu.be/g4cxpcj2UFA?si=ZU24iMp_5C_fyEHS&t=54">
-          <img src="yolov3-wildfire-detector.png" width="100%" alt="fccs"/>
+          <img src="fccs.gif" width="100%" alt="fccs"/>
         </a>
         <br>
         <sub><strong>Startup Initiative</strong>: Fire detection system pre-trained on the ImageNet dataset and fine-tuned on 650 fire images; presented in two competitions and a fire department.</sub>
