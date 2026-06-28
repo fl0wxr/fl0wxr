@@ -76,7 +76,6 @@
         <br>
         <sub><strong>Computational Proteomics</strong>: Baseline analysis [2] of twelve thousand natural proteomes from UniProtKB; presented in HBioinfo17 (RECOMB 2026). Each of the three visualized columns display a structure aligned set of three proteins sampled from the same cluster.</sub>
       </td>
-    <tr>
       <td valign="top" align="center" width="33%">
         <a href="https://github.com/fl0wxr/netfieldv1">
           <img src="netfieldv1.png" width="100%" alt="netfieldv1"/>
@@ -97,13 +96,7 @@
 
 <div align="center">
   <table>
-      <td valign="top" align="center" width="33%">
-        <a href="https://drive.google.com/file/d/1SJsKJWXQa-w-zUuzjFBiInODYKBM7dEu/view?usp=sharing">
-          <img src="maths.png" width="100%" alt="axler-mira"/>
-        </a>
-        <br>
-        <sub><strong>Rigorous Mathematics</strong>: The figure shows the Dominated Convergence Theorem for the Lebesgue integral; constructed in alignment with Axler's: Measure, Integration & Real Analysis (2022) book [4]. Click on the figure to view my proof. The purpose of notes such as this are to rigorously fill all the gaps I encounter in mathematical textbooks.</sub>
-      </td>
+    <tr>
       <td valign="top" align="center" width="33%">
         <a href="https://github.com/fl0wxr/img-sim">
           <img src="img-sim.png" width="100%" alt="img-sim"/>
@@ -117,6 +110,13 @@
         </a>
         <br>
         <sub><strong>Multi-modal Video Summarization</strong>: Proof-of-concept pipeline combining audio (MFCC) and visual (CNN) features; keyframe selection formulated as a Knapsack optimization problem; presented as a poster.</sub>
+      </td>
+      <td valign="top" align="center" width="33%">
+        <a href="https://drive.google.com/file/d/1SJsKJWXQa-w-zUuzjFBiInODYKBM7dEu/view?usp=sharing">
+          <img src="maths.png" width="100%" alt="axler-mira"/>
+        </a>
+        <br>
+        <sub><strong>Rigorous Mathematics</strong>: The figure shows the Dominated Convergence Theorem for the Lebesgue integral; constructed in alignment with Axler's: Measure, Integration & Real Analysis (2022) book [4]. Click on the figure to view my proof. The purpose of notes such as this are to rigorously fill all the gaps I encounter in mathematical textbooks.</sub>
       </td>
     </tr>
   </table>
