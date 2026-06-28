@@ -189,11 +189,6 @@ Replies within ~1-2 Days.
 2. Scalable Graph Clustering & High Performance Computing
 3. Machine Learning & Mathematical Modeling and Optimization
 
-## 🎓 Education
-
-- **M.Sc. in Artificial Intelligence** -- Aristotle University of Thessaloniki
-- **M.Eng. in Financial & Management Engineering** -- University of the Aegean
-
 ## 📚 Reference
 
 [1] A. Dimoulakis, E. Politis, M. Nikolaidis, P. Bizopoulos, and K. Votis. "MedDiSC: Medical De-identification, Segmentation & Curation Tool". Manuscript. SSRN. 2024-05-01. Available at: https://ssrn.com/abstract=4813479
