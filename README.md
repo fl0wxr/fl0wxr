@@ -109,7 +109,7 @@
           <img src="maths.png" width="100%" alt="axler-mira"/>
         </a>
         <br>
-        <sub><strong>Rigorous Mathematics</strong>: The Dominated Convergence Theorem for the Lebesgue integral, constructed in alignment with Axler's: Measure, Integration & Real Analysis (2022) book [5]. Click on the image to view my proof. The purpose of these notes are to fill all gaps in mathematical textbooks.</sub>
+        <sub><strong>Rigorous Mathematics</strong>: The Dominated Convergence Theorem for the Lebesgue integral, constructed in alignment with Axler's: Measure, Integration & Real Analysis (2022) book [4]. Click on the image to view my proof. The purpose of these notes are to fill all gaps in mathematical textbooks.</sub>
       </td>
       <td valign="top" align="center" width="33%">
         <a href="https://github.com/Vasilispapg/CVML-ConvNN-MMVS">
@@ -202,9 +202,9 @@ Replies within ~1-2 Days.
 
 [3] INCISIVE Project Consortium. "D6.7 Best Practices for DICOM De-identification". Project Deliverable. INCISIVE (HORIZON 2020). 2024-06-30. Available at: https://incisive-project.eu/wp-content/uploads/2024/06/INCISIVE_D6-7_Best-Practices_final.pdf
 
-[4] A. Tzanetos, C. Kyriklidis, A. Papamichail, A. Dimoulakis, and G. Dounias. "A Nature Inspired Metaheuristic for Optimal Leveling of Resources in Project Management". Conference Paper. SETN '18: Proceedings of the 10th Hellenic Conference on Artificial Intelligence, 2018-07-09. doi:10.1145/3200947.3201014. Available at: https://doi.org/10.1145/3200947.3201014
+[4] A. Dimoulakis. "Complementary notes aligned with Axler's *Measure, Integration & Real Analysis* book, covering foundational topics in metric spaces, Lebesgue integration, and functional analysis". 2022-06. Available at: https://drive.google.com/drive/folders/1p6rbD9gTxQGJupflapUb5uy8YYFP4eRU?usp=sharing
 
-[5] A. Dimoulakis. "Complementary notes aligned with Axler's *Measure, Integration & Real Analysis* book, covering foundational topics in metric spaces, Lebesgue integration, and functional analysis". 2022-06. Available at: https://drive.google.com/drive/folders/1p6rbD9gTxQGJupflapUb5uy8YYFP4eRU?usp=sharing
+[5] A. Tzanetos, C. Kyriklidis, A. Papamichail, A. Dimoulakis, and G. Dounias. "A Nature Inspired Metaheuristic for Optimal Leveling of Resources in Project Management". Conference Paper. SETN '18: Proceedings of the 10th Hellenic Conference on Artificial Intelligence, 2018-07-09. doi:10.1145/3200947.3201014. Available at: https://doi.org/10.1145/3200947.3201014
 
 ---
 
