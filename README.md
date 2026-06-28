@@ -30,7 +30,7 @@
           <img src="fccs.gif" width="100%" alt="fccs"/>
         </a>
         <br>
-        <sub><strong>Startup Initiative</strong>: Fire detection system fine-tuned on 650 fire images; presented in two competitions and a fire department.</sub>
+        <sub><strong>Startup Initiative</strong>: Fire detection system trained on 650 fire images; presented in two competitions and a fire department.</sub>
       </td>
     </tr>
   </table>
