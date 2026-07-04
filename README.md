@@ -177,7 +177,7 @@ Replies within ~1-2 Days.
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 
-**Machine Learning Tools**: Segment Anything Model, PyTorch, TensorFlow, keras-ocr, darknet
+**Machine Learning Tools**: NumPy, PyTorch, TensorFlow, Pandas, Segment Anything Model, keras-ocr, darknet
 
 **Bioinformatics Tools**: DIAMOND, MCL, HipMCL, ChimeraX, BLAST
 
