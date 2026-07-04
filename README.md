@@ -116,7 +116,7 @@
           <img src="maths.png" width="100%" alt="axler-mira"/>
         </a>
         <br>
-        <sub><strong>Rigorous Mathematics</strong>: The figure above shows part of my work [4] in abstract mathematics: the Dominated Convergence Theorem for the Lebesgue integral. The purpose of this complementary work is to rigorously fill every gap I encounter in mathematical textbooks. This rigor gives me an unfair advantage when engineering things.</sub>
+        <sub><strong>Rigorous Mathematics</strong>: The figure gives a glimpse into my old work [4] in abstract mathematics: the Dominated Convergence Theorem for the Lebesgue integral. The purpose of this complementary work is to rigorously fill every gap I encounter in mathematical textbooks. This rigor gives me an unfair advantage when engineering things.</sub>
       </td>
     </tr>
   </table>
