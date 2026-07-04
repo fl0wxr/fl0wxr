@@ -116,7 +116,7 @@
           <img src="maths.png" width="100%" alt="axler-mira"/>
         </a>
         <br>
-        <sub><strong>Rigorous Mathematics</strong>: The figure shows the Dominated Convergence Theorem for the Lebesgue integral; constructed in alignment with Axler's: Measure, Integration & Real Analysis (2022) book [4]. Click on the figure to view my proof. The purpose of notes such as this is to either generalize theorems or to rigorously fill all the gaps I encounter in mathematical textbooks (somebody has to do it).</sub>
+        <sub><strong>Rigorous Mathematics</strong>: The figure above shows the Dominated Convergence Theorem for the Lebesgue integral (aligned with [4]). Click on the figure to view my proof. The purpose of notes such as this is to rigorously fill all the gaps I encounter in mathematical textbooks. All practical constructs are founded on mathematical objects; understanding their machinery is therefore absolutely essential (someone gotta do it).</sub>
       </td>
     </tr>
   </table>
