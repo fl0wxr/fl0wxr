@@ -116,7 +116,7 @@
           <img src="maths.png" width="100%" alt="axler-mira"/>
         </a>
         <br>
-        <sub><strong>Rigorous Mathematics</strong>: The figure above shows the Dominated Convergence Theorem for the Lebesgue integral [4]. The purpose of notes such as this is to rigorously fill all the gaps I encounter in mathematical textbooks. All practical constructs are founded on mathematical objects; understanding their machinery is therefore absolutely essential.</sub>
+        <sub><strong>Rigorous Mathematics</strong>: The figure above shows part of my work [4] in abstract mathematics: the Dominated Convergence Theorem for the Lebesgue integral. The purpose of this complementary work is to rigorously fill all the gaps I encounter in mathematical textbooks. All practical constructs are founded on mathematical objects; therefore, understanding their machinery gives me an unfair advantage.</sub>
       </td>
     </tr>
   </table>
