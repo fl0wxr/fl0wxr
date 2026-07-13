@@ -193,7 +193,7 @@ Replies within ~1-2 Days.
 
 [1] A. Dimoulakis, E. Politis, M. Nikolaidis, P. Bizopoulos, and K. Votis. "MedDiSC: Medical De-identification, Segmentation & Curation Tool". Manuscript. SSRN. 2024-05-01. Available at: https://ssrn.com/abstract=4813479
 
-[2] A. Dimoulakis. "Computational Genomics -- Analysis of a Scalable and Reproducible Clustering Workflow in Protein Sequence Similarity Networks". Master's Thesis. Aristotle University of Thessaloniki, Greece. 2026. Available at: https://drive.google.com/file/d/1AVaMdupbLhaNpim_sLAkbQsNUr2tf3QD/view?usp=sharing
+[2] A. Dimoulakis. "Computational Assessment of a Scalable, Reproducible & Interpretable Clustering Workflow in the Natural Genome Space". Master's Thesis. Aristotle University of Thessaloniki, Greece. 2026. Available at: https://drive.google.com/file/d/1AVaMdupbLhaNpim_sLAkbQsNUr2tf3QD/view?usp=sharing
 
 [3] INCISIVE Project Consortium. "D6.7 Best Practices for DICOM De-identification". Project Deliverable. INCISIVE (HORIZON 2020). 2024-06-30. Available at: https://incisive-project.eu/wp-content/uploads/2024/06/INCISIVE_D6-7_Best-Practices_final.pdf
 
