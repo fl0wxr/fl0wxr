@@ -74,7 +74,7 @@
           <img src="qualitative_hds.png" width="100%" alt="msc-thesis"/>
         </a>
         <br>
-        <sub><strong>Computational Proteomics</strong>: Baseline analysis [2] of twelve thousand natural proteomes from UniProtKB; presented in HBioinfo17 (RECOMB 2026). Each of the three visualized columns display a structure aligned set of three proteins sampled from the same cluster.</sub>
+        <sub><strong>Computational Proteomics</strong>: Baseline analysis [2] of twelve thousand natural proteomes from UniProtKB; presented in HBioinfo17 (RECOMB 2026); M.Sc. Thesis Project.</sub>
       </td>
       <td valign="top" align="center" width="33%">
         <a href="https://github.com/fl0wxr/netfieldv1">
@@ -88,7 +88,7 @@
           <img src="meng-thesis.png" width="100%" alt="meng-thesis"/>
         </a>
         <br>
-        <sub><strong>M.Eng. Thesis</strong>: Transfer learning of LeNet-like Convolutional Neural Networks between image and text modalities through TensorFlow, Keras and NumPy.</sub>
+        <sub><strong>Convolutional Neural Networks</strong>: Transfer learning of LeNet-like Convolutional Neural Networks between image and text modalities through TensorFlow, Keras and NumPy; M.Eng. Thesis Project.</sub>
       </td>
     </tr>
   </table>
