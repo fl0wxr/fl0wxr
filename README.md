@@ -197,7 +197,7 @@ Replies within ~1-2 Days.
 
 [3] INCISIVE Project Consortium. "D6.7 Best Practices for DICOM De-identification". Project Deliverable. INCISIVE (HORIZON 2020). 2024-06-30. Available at: https://incisive-project.eu/wp-content/uploads/2024/06/INCISIVE_D6-7_Best-Practices_final.pdf
 
-[4] A. Dimoulakis. "Complementary notes aligned with Axler's *Measure, Integration & Real Analysis* book, covering foundational topics in metric spaces, Lebesgue integration, and functional analysis". 2022-06. Available at: https://drive.google.com/drive/folders/1p6rbD9gTxQGJupflapUb5uy8YYFP4eRU?usp=sharing
+[4] A. Dimoulakis. "Complementary notes covering foundational topics in Mathematical Analysis and Measure Theory". 2022-06. Available at: https://drive.google.com/drive/folders/1p6rbD9gTxQGJupflapUb5uy8YYFP4eRU?usp=sharing
 
 [5] A. Tzanetos, C. Kyriklidis, A. Papamichail, A. Dimoulakis, and G. Dounias. "A Nature Inspired Metaheuristic for Optimal Leveling of Resources in Project Management". Conference Paper. SETN '18: Proceedings of the 10th Hellenic Conference on Artificial Intelligence, 2018-07-09. doi:10.1145/3200947.3201014. Available at: https://doi.org/10.1145/3200947.3201014
 
