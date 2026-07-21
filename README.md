@@ -16,7 +16,7 @@
           <img src="smoke-segmenter-oracle-panel.png" width="100%" alt="smoke-segmenter"/>
         </a>
         <br>
-        <sub><strong>Semi-automatic Smoke Segmentation Utility</strong>: Initially, a foundation CV model (SAM) transforms the bounding boxes of an existing labelled dataset to segmentation masks in bulk, then the human may approve/denie the masks one-by-one, with convenience through my implemented GUI.</sub>
+        <sub><strong>Semi-automatic Smoke Segmentation Utility</strong>: Initially, a foundation CV model (SAM) transforms the bounding boxes of an existing labelled dataset to segmentation masks in bulk, then the human may approve/deny the masks one-by-one, with convenience through my implemented GUI.</sub>
       </td>
       <td valign="top" align="center" width="33%">
         <a href="https://youtu.be/LSx3SHB2Lt4?si=mMFd4puYkq57WwtM&t=130">
@@ -116,7 +116,7 @@
           <img src="maths.png" width="100%" alt="axler-mira"/>
         </a>
         <br>
-        <sub><strong>Rigorous Mathematics</strong>: The figure shows one of topics covered in my work [4] in abstract mathematics: the Dominated Convergence Theorem in Lebesgue Integration. The purpose of this complementary work is to rigorously fill every gap I encounter in mathematical textbooks.</sub>
+        <sub><strong>Rigorous Mathematics</strong>: The figure shows one of topics covered in my work [4] in abstract mathematics: the Dominated Convergence Theorem based on the Lebesgue Integral. The purpose of this complementary work is to rigorously fill every gap I encounter in mathematical textbooks.</sub>
       </td>
     </tr>
   </table>
