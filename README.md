@@ -74,7 +74,7 @@
           <img src="qualitative_hds.png" width="100%" alt="msc-thesis"/>
         </a>
         <br>
-        <sub><strong>Computational Proteomics</strong>: Baseline analysis [2] of twelve thousand natural proteomes from UniProtKB; presented in HBioinfo17 (RECOMB 2026); M.Sc. Thesis Project.</sub>
+        <sub><strong>Computational Proteomics</strong>: Developed a reproducible protein clustering workflow scaling to 82 million protein sequences on a single 1 TB-memory compute node; presented in HBioinfo17 (RECOMB 2026); M.Sc. Thesis Project.</sub>
       </td>
       <td valign="top" align="center" width="33%">
         <a href="https://github.com/fl0wxr/netfieldv1">
