@@ -70,7 +70,7 @@
   <table>
     <tr>
       <td valign="top" align="center" width="33%">
-        <a href="https://drive.google.com/file/d/1AVaMdupbLhaNpim_sLAkbQsNUr2tf3QD/view?usp=sharing">
+        <a href="https://drive.google.com/file/d/1bfgKrABwRe2HDzbSK1Ym-SLPnXh7PiCd/view?usp=sharing">
           <img src="qualitative_hds.png" width="100%" alt="msc-thesis"/>
         </a>
         <br>
