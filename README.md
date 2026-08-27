@@ -185,9 +185,9 @@ Replies within ~1-2 Days.
 
 ## 🤝 R&D Interests (ranked by field)
 
-1. **Computational Genomics & Proteomics**
-2. Scalable Graph Clustering & High Performance Computing
-3. Machine Learning & Mathematical Modeling and Optimization
+1. **Computational Proteogenomics**
+2. Convex Optimization, Mathematical Modeling
+3. High Performance Computing
 
 ## 📚 References
 
