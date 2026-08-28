@@ -6,64 +6,6 @@
 
 ---
 
-> `> SOLUTIONS`
-
-<div align="center">
-  <table>
-    <tr>
-      <td valign="top" align="center" width="33%">
-        <a href="https://github.com/fl0wxr/SmokeSegmenter">
-          <img src="smoke-segmenter-oracle-panel.png" width="100%" alt="smoke-segmenter"/>
-        </a>
-        <br>
-        <sub><strong>Semi-automatic Smoke Segmentation Utility</strong>: Initially, a foundation CV model (SAM) transforms the bounding boxes of an existing labelled dataset to segmentation masks in bulk, then the human may approve/deny the masks one-by-one, with convenience through my implemented GUI.</sub>
-      </td>
-      <td valign="top" align="center" width="33%">
-        <a href="https://youtu.be/LSx3SHB2Lt4?si=mMFd4puYkq57WwtM&t=130">
-          <img src="meddisc-solution.png" width="100%" alt="meddisc-demo"/>
-        </a>
-        <br>
-        <sub><strong>MedDiSC</strong>: Browser-based DICOM de‑identification &amp; Segmentation Tool [1]; implemented for clinical use: de‑identifies and segments bulk DICOM images, curates mask set exported in a single NifTI encoding.</sub>
-      </td>
-      <td valign="top" align="center" width="33%">
-        <a href="https://youtu.be/g4cxpcj2UFA?si=ZU24iMp_5C_fyEHS&t=54">
-          <img src="fccs.gif" width="100%" alt="fccs"/>
-        </a>
-        <br>
-        <sub><strong>Startup Initiative</strong>: Fire detection system trained on 650 fire images; presented in two competitions and a fire department.</sub>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td valign="top" align="center" width="33%">
-        <a href="https://github.com/fl0wxr/jade-maze-solver">
-          <img src="jade-maze-solver.gif" width="100%" alt="maze-solver"/>
-        </a>
-        <br>
-        <sub><strong>Jade Maze Solver</strong>: JADE-based (Java) agent-oriented system for maze solving; after generating the maze via recursive backtracking.</sub>
-      </td>
-      <td valign="top" align="center" width="33%">
-        <a href="https://github.com/fl0wxr/DICOMImageDeIdentifier">
-          <img src="dicom-deidentifier.png" width="100%" alt="dicom-deidentifier"/>
-        </a>
-        <br>
-        <sub><strong>DICOM De-identifier Utility</strong>: Streamlined a rotation invariant burned-in text removal workflow designed and implemented to de-identify over two million X-Ray DICOM images for INCISIVE (HORIZON 2020) [3].</sub>
-      </td>
-      <td valign="top" align="center" width="33%">
-        <a href="https://github.com/fl0wxr/machine_translator">
-          <img src="greek-translator.png" width="100%" alt="machine_translator"/>
-        </a>
-        <br>
-        <sub><strong>Greek Translator</strong>: PyTorch seq2seq language model for Greek–English translation; made up of GRU layers; custom BLEU, trained with teacher forcing scheme; C-accelerated preprocessing (287x); trained on my custom 17k sentences dataset.</sub>
-      </td>
-    </tr>
-  </table>
-</div>
-
 > `> RESEARCH`
 
 <div align="center">
@@ -117,6 +59,64 @@
         </a>
         <br>
         <sub><strong>Rigorous Mathematics</strong>: The figure shows one of topics covered in my work in abstract mathematics. The purpose of this complementary work is to rigorously fill every gap I encounter in mathematical textbooks.</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+> `> SOLUTIONS`
+
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top" align="center" width="33%">
+        <a href="https://github.com/fl0wxr/SmokeSegmenter">
+          <img src="smoke-segmenter-oracle-panel.png" width="100%" alt="smoke-segmenter"/>
+        </a>
+        <br>
+        <sub><strong>Semi-automatic Smoke Segmentation Utility</strong>: Initially, a foundation CV model (SAM) transforms the bounding boxes of an existing labelled dataset to segmentation masks in bulk, then the human may approve/deny the masks one-by-one, with convenience through my implemented GUI.</sub>
+      </td>
+      <td valign="top" align="center" width="33%">
+        <a href="https://youtu.be/LSx3SHB2Lt4?si=mMFd4puYkq57WwtM&t=130">
+          <img src="meddisc-solution.png" width="100%" alt="meddisc-demo"/>
+        </a>
+        <br>
+        <sub><strong>MedDiSC</strong>: Browser-based DICOM de‑identification &amp; Segmentation Tool [1]; implemented for clinical use: de‑identifies and segments bulk DICOM images, curates mask set exported in a single NifTI encoding.</sub>
+      </td>
+      <td valign="top" align="center" width="33%">
+        <a href="https://youtu.be/g4cxpcj2UFA?si=ZU24iMp_5C_fyEHS&t=54">
+          <img src="fccs.gif" width="100%" alt="fccs"/>
+        </a>
+        <br>
+        <sub><strong>Startup Initiative</strong>: Fire detection system trained on 650 fire images; presented in two competitions and a fire department.</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top" align="center" width="33%">
+        <a href="https://github.com/fl0wxr/jade-maze-solver">
+          <img src="jade-maze-solver.gif" width="100%" alt="maze-solver"/>
+        </a>
+        <br>
+        <sub><strong>Jade Maze Solver</strong>: JADE-based (Java) agent-oriented system for maze solving; after generating the maze via recursive backtracking.</sub>
+      </td>
+      <td valign="top" align="center" width="33%">
+        <a href="https://github.com/fl0wxr/DICOMImageDeIdentifier">
+          <img src="dicom-deidentifier.png" width="100%" alt="dicom-deidentifier"/>
+        </a>
+        <br>
+        <sub><strong>DICOM De-identifier Utility</strong>: Streamlined a rotation invariant burned-in text removal workflow designed and implemented to de-identify over two million X-Ray DICOM images for INCISIVE (HORIZON 2020) [3].</sub>
+      </td>
+      <td valign="top" align="center" width="33%">
+        <a href="https://github.com/fl0wxr/machine_translator">
+          <img src="greek-translator.png" width="100%" alt="machine_translator"/>
+        </a>
+        <br>
+        <sub><strong>Greek Translator</strong>: PyTorch seq2seq language model for Greek–English translation; made up of GRU layers; custom BLEU, trained with teacher forcing scheme; C-accelerated preprocessing (287x); trained on my custom 17k sentences dataset.</sub>
       </td>
     </tr>
   </table>
