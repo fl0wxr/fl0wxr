@@ -144,7 +144,7 @@ Open to freelancing, consulting, and full‑time roles. I deliver value, not jus
 <a href="https://www.facebook.com/people/Apostolos-Dimoulakis">
   <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook"/>
 </a>
-<a href="https://linkedin.com/in/fl0wxr">
+<a href="https://www.linkedin.com/in/apostolos-dimoulakis">
   <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
