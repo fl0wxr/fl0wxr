@@ -139,9 +139,7 @@ Open to freelancing, consulting, and full‑time roles. I deliver value, not jus
 **Contact Channels**:
 
 <center>
-`
 apo.dimu[at]gmail.com
-`
 </center>
 
 <a href="https://www.facebook.com/people/Apostolos-Dimoulakis">
