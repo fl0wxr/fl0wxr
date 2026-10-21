@@ -139,7 +139,7 @@ Open to freelancing, consulting, and full‑time roles. I deliver value, not jus
 **Contact Channels**:
 
 `
-apo.dimu[at]gmail.com
+amdi [at] iscb.org
 `
 
 <a href="https://www.facebook.com/people/Apostolos-Dimoulakis">
